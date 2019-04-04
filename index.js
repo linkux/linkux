@@ -13,6 +13,17 @@ app.post('/createUser', (req, res) => {
     })
     .then(() => res.sendStatus(200))
 })
+app.post('/login', (req, res) => {
+  store
+    .authenticate({
+      username: req.body.username,
+      password: req.body.password
+    })
+    .then(({ success }) => {
+      if (success) res.sendStatus(200)
+      else res.sendStatus(401)
+    })
+})
 
 app.get('/', function (req, res) {
   console.log('Got request');
