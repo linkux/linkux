@@ -1,27 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
-console.log(__dirname);
-
-class Image extends React.Component {
-    render() {
-        return <img src={this.props.image_path} alt={this.props.alt} 
-                width={this.props.height} height={this.props.height}/>
-    }
-}
-
-class ProfileImage extends React.Component {
-    render() {
-        return <Image image_path={this.props.image_path} alt="Profile Picture" 
-                width="128" height="128"/>
-    }
-}
+import ProfileImage from "../src/image.js";
+import ImageCarousel from "../src/image_carousel/image_carousel.js";
 
 const Index = () => {
   return (
     <div className="main">
         <div className="profile">
-            <ProfileImage image_path="../sunset-pexels.jpeg"/>
+            <ProfileImage image_path="../images/sunset-pexels.jpeg"/>
+        </div>
+        <div className="slideshow">
+            <ImageCarousel/>
         </div>
     </div>);
 };
