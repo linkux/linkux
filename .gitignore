@@ -1,2 +1,5 @@
 node_modules
+legacy
+.vscode
 .DS_Store
+dist/
