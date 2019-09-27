@@ -1,12 +1,10 @@
 #!/usr/bin/env python
+import os
+import sys
 
-import http.server
-import socketserver
+if __name__ == "__main__":
+    os.environ.setdefault("DJANGO_SETTINGS_MODULE", "gettingstarted.settings")
 
-PORT = 8080
-Handler = http.server.SimpleHTTPRequestHandler
+    from django.core.management import execute_from_command_line
 
-if __name__ == '__main__':
-    with socketserver.TCPServer(("", PORT), Handler) as httpd:
-        print("serving at port", PORT)
-        httpd.serve_forever()
+    execute_from_command_line(sys.argv)
