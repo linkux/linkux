@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import http.server
 import socketserver
 
