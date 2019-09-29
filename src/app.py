@@ -2,8 +2,9 @@
 
 import http.server
 import socketserver
+import sys
 
-PORT = 8080
+PORT = 80
 Handler = http.server.SimpleHTTPRequestHandler
 
 if __name__ == '__main__':
