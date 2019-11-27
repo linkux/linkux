@@ -5,6 +5,42 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+}
+
+h2 {
+    color: light gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h3 {
+    color: navy;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 0
+}
+
+a.link_back:link {
+  color: gray;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+a.link_back:visited{
+  color:gray;
+}
+
+a.regular:link {
+  color: #3399ff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+a.regular:visited{
+  color: #3399ff;
+  font-weight: bold;
 }
