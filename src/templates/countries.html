@@ -18,14 +18,14 @@
                 var item = document.createElement('li');
 
                 item.appendChild(document.createTextNode(countries[i]));
-                item.setAttribute("style","margin:3px");
 
                 fontsize_string = "4vw";
 
                 if (screen.width > 421){
                     fontsize_string = "16px";
                 }
-                item.setAttribute("style","font-size:" + fontsize_string + ";margin-bottom:5px;font-family:Unispace");
+                item.setAttribute("style","font-size:" + fontsize_string +
+                    "margin:3px;margin-bottom:5px;font-family:Unispace");
 
                 list.appendChild(item);
             }
