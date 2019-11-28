@@ -7,11 +7,11 @@ var interesting = [
     },
     {
     "http://investorfieldguide.com/instagram/" :
-    "Podcast: Kevin Systrom and Mike Krieger – How to Build a Great Product"
+    "Podcast: Kevin Systrom and Mike Krieger - How to Build a Great Product"
     },
     {
     "https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html" :
-    "Martin Scorsese: I Said Marvel Movies Aren’t Cinema. Let Me Explain."
+    "Martin Scorsese: I Said Marvel Movies Aren't Cinema. Let Me Explain."
     },
     {
     "https://twitter.com/MLiebreich/status/1186915182309707776" :
