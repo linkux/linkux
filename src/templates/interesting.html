@@ -3,12 +3,15 @@
 
 <html>
     <head>
-        <title>Ran Reichman's Website - Interesting Articles</title>
+        <title>Ran Reichman's Website - Interesting Stuff</title>
         <link rel="stylesheet" href="static/style.css">
     </head>
     <body>
-        <h3>Interesting Articles</h3>
+        <h3>Interesting Stuff</h3>
         <h2><a href="/" class="link_back">Back to Home Page</a></h2>
-        <p>List here</p>
+        <p id="interesting_data", style="white-space: pre;font-family:Unispace;"></p>
+        <script src="static/interesting_data.js"></script>
+        <script src="static/load_list_data.js"></script>
+        <script>loadListData('interesting_data', interesting);</script>
     </body>
 </html>

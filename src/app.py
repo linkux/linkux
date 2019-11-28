@@ -19,8 +19,12 @@ def funny():
     return render_template('funny.html')
 
 @app.route('/interesting.html', methods=['GET','POST'])
-def articles():
+def interesting():
     return render_template('interesting.html')
+
+@app.route('/movies.html', methods=['GET','POST'])
+def movies():
+    return render_template('movies.html')
 
 @app.route('/random.html', methods=['GET','POST'])
 def random():

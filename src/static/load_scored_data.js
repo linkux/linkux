@@ -1,6 +1,6 @@
 var score_map = {"**" : "**  ", "*" : "*    "}
 
-function makeUL(array) {
+function makeUL(array, seperator) {
     var list = document.createElement('ul');
 
     for (var i = 0; i < array.length; i++) {
@@ -15,11 +15,13 @@ function makeUL(array) {
         var b = document.createElement("b");
         b.textContent = vals[0];
         item.appendChild(b);
-        item.appendChild(document.createTextNode(", by " + vals[1]))
+        item.appendChild(document.createTextNode(seperator + vals[1]))
 
         list.appendChild(item);
     }
     return list;
 }
 
-document.getElementById('books_data').appendChild(makeUL(books));
+function loadScoredData(data_name, data_source, seperator = "") {
+    document.getElementById(data_name).appendChild(makeUL(data_source, seperator));
+}

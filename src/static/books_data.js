@@ -1,3 +1,5 @@
+var books_seperator = ", by ";
+
 var books = [
     "Private Empire: ExxonMobil and American Power;Steve Coll;**",
     "The Man Who Solved The Market;Gregory Zuckerman;***",
