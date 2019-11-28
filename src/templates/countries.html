@@ -19,13 +19,12 @@
 
                 item.appendChild(document.createTextNode(countries[i]));
 
-                fontsize_string = "4vw";
+                attribute_string = "font-size:4vw;margin:40px;margin-bottom:10px;font-family:Unispace";;
 
                 if (screen.width > 421){
-                    fontsize_string = "16px";
+                    attribute_string = "font-size:16px;margin:10px;margin-bottom:2px;font-family:Unispace";
                 }
-                item.setAttribute("style","font-size:" + fontsize_string +
-                    "margin:3px;margin-bottom:5px;font-family:Unispace");
+                item.setAttribute("style", attribute_string);
 
                 list.appendChild(item);
             }

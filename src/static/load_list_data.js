@@ -5,7 +5,6 @@ function makeUL(array) {
         var item = document.createElement('li');
 
         item.appendChild(document.createTextNode(array[i]));
-        //item.setAttribute("style","max-width:100px");
         fontsize_string = "4vw";
 
         if (screen.width > 421){
