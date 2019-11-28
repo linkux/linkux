@@ -89,7 +89,7 @@ var books = [
     "Total Leadership;Stewart Friedman;*",
     "Rework;Jason Fried, David Heinemeier Hannson;*",
     "The $100 Startup;Chris Gulliebeau;*",
-    "The Everything Stor;Brad Stone;***",
+    "The Everything Store;Brad Stone;***",
     "Me, Myself and Us;Brian Little;*",
     "Lying;Sam Harris;**",
     "The Innovators;Walter Isaacson;**",
