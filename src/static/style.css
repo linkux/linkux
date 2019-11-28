@@ -11,7 +11,7 @@ h1 {
     margin-top: 1px;
 }
 
-@media screen and (min-width: 421px) {
+@media screen and (min-device-width: 421px) {
   h1 {
     font-size: 29px;
   }
@@ -31,7 +31,7 @@ h2 {
     margin-bottom: 1px;
 }
 
-@media screen and (min-width: 421px) {
+@media screen and (min-device-width: 421px) {
   h2 {
     font-size: 23px;
   }
@@ -50,7 +50,7 @@ h3 {
     margin: 0
 }
 
-@media screen and (min-width: 421px) {
+@media screen and (min-device-width: 421px) {
   h3 {
     font-size: 23px;
   }
@@ -69,7 +69,7 @@ a.link_back:link {
   font-size: 4vw;
 }
 
-@media screen and (min-width: 421px) {
+@media screen and (min-device-width: 421px) {
   a.link_back:link {
     font-size: 15.5px;
   }
@@ -93,7 +93,7 @@ a.regular:link {
   font-size: 6.0vw;
 }
 
-@media screen and (min-width: 421px) {
+@media screen and (min-device-width: 421px) {
   a.regular:link {
     font-size: 20px;
   }
