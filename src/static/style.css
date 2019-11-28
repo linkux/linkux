@@ -17,6 +17,12 @@ h1 {
   }
 }
 
+@media screen and (min-screen-width: 421px) {
+  h1 {
+    font-size: 29px;
+  }
+}
+
 h2 {
     color: light gray;
     font-family: Arial, Helvetica, sans-serif;
@@ -26,6 +32,12 @@ h2 {
 }
 
 @media screen and (min-width: 421px) {
+  h2 {
+    font-size: 23px;
+  }
+}
+
+@media screen and (min-screen-width: 421px) {
   h2 {
     font-size: 23px;
   }
@@ -44,6 +56,12 @@ h3 {
   }
 }
 
+@media screen and (min-screen-width: 421px) {
+  h3 {
+    font-size: 23px;
+  }
+}
+
 a.link_back:link {
   color: gray;
   text-decoration: none;
@@ -52,6 +70,12 @@ a.link_back:link {
 }
 
 @media screen and (min-width: 421px) {
+  a.link_back:link {
+    font-size: 15.5px;
+  }
+}
+
+@media screen and (min-screen-width: 421px) {
   a.link_back:link {
     font-size: 15.5px;
   }
@@ -70,6 +94,12 @@ a.regular:link {
 }
 
 @media screen and (min-width: 421px) {
+  a.regular:link {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-screen-width: 421px) {
   a.regular:link {
     font-size: 20px;
   }

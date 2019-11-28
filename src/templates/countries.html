@@ -9,7 +9,7 @@
     <body>
         <h3>Countries</h3>
         <h2><a href="/" class="link_back">Back to Home Page</a></h2>
-        <p id="countries_data", style="white-space: pre;font-family:Unispace"></p>
+        <p id="countries_data"></p>
         <script src="static/countries_data.js"></script>
         <script>
             var list = document.createElement('ol');
@@ -19,6 +19,13 @@
 
                 item.appendChild(document.createTextNode(countries[i]));
                 item.setAttribute("style","margin:3px");
+
+                fontsize_string = "4vw";
+
+                if (screen.width > 421){
+                    fontsize_string = "16px";
+                }
+                item.setAttribute("style","font-size:" + fontsize_string + ";margin-bottom:5px;font-family:Unispace");
 
                 list.appendChild(item);
             }

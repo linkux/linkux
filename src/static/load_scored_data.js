@@ -1,16 +1,11 @@
 var score_map = {"**" : "**  ", "*" : "*    "}
 
-function getScreenWidth() {
-    return window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;;
-}
-
 function makeNote() {
     note = document.createElement('label');
     note.textContent = "(More stars is better)";
 
     note.setAttribute("style","font-size:3.5vw");
-    const width = getScreenWidth();
-    if (width > 421){
+    if (screen.width > 421){
         note.setAttribute("style","font-size:14px");
     }
 
@@ -33,15 +28,19 @@ function makeUL(array, seperator) {
         score_element.textContent = score_str + "  -  ";
         score_element.setAttribute("style","white-space: pre;font-family:Unispace");
         item.appendChild(score_element);
+
         var b = document.createElement("b");
         b.textContent = vals[0];
+
         item.appendChild(b);
         item.appendChild(document.createTextNode(seperator + vals[1]));
-        item.setAttribute("style","font-size:4vw;margin-bottom:4px");
-        const width = getScreenWidth();
-        if (width > 421){
-            item.setAttribute("style","font-size:16px;margin-bottom:4px");
+
+        fontsize_string = "4vw";
+
+        if (screen.width > 421){
+            fontsize_string = "16px";
         }
+        item.setAttribute("style","font-size:" + fontsize_string + ";margin-bottom:5px");
 
         list.appendChild(item);
     }
