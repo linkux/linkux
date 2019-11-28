@@ -4,7 +4,21 @@ function makeUL(array) {
     for (var i = 0; i < array.length; i++) {
         var item = document.createElement('li');
 
-        item.appendChild(document.createTextNode(array[i]));
+        var key = Array.from(Object.keys(array[i]))[0];
+        var val = array[i][key];
+
+        if (key.startsWith("http")) {
+            var a = document.createElement('a');
+            var linkText = document.createTextNode(val);
+            a.appendChild(linkText);
+            //a.title = array[1];
+            a.href = key;
+            item.append(a);
+        }
+        else
+        {
+            item.appendChild(document.createTextNode(val));
+        }
         fontsize_string = "4vw";
 
         if (screen.width > 421){
