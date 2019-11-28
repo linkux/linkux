@@ -7,11 +7,11 @@ body {
 h1 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 17vw;
+    font-size: 8.5vw;
     margin-top: 1px;
 }
 
-@media screen and (min-width: 361px) {
+@media screen and (min-width: 421px) {
   h1 {
     font-size: 29px;
   }
@@ -20,12 +20,12 @@ h1 {
 h2 {
     color: light gray;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 14.0vw;
+    font-size: 7.0vw;
     margin-top: 3px;
     margin-bottom: 1px;
 }
 
-@media screen and (min-width: 361px) {
+@media screen and (min-width: 421px) {
   h2 {
     font-size: 23px;
   }
@@ -38,7 +38,7 @@ h3 {
     margin: 0
 }
 
-@media screen and (min-width: 361px) {
+@media screen and (min-width: 421px) {
   h3 {
     font-size: 23px;
   }
@@ -48,10 +48,10 @@ a.link_back:link {
   color: gray;
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 8vw;
+  font-size: 4vw;
 }
 
-@media screen and (min-width: 361px) {
+@media screen and (min-width: 421px) {
   a.link_back:link {
     font-size: 15.5px;
   }
@@ -66,10 +66,10 @@ a.regular:link {
   text-decoration: none;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 12.0vw;
+  font-size: 6.0vw;
 }
 
-@media screen and (min-width: 361px) {
+@media screen and (min-width: 421px) {
   a.regular:link {
     font-size: 20px;
   }
