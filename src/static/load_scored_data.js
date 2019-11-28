@@ -11,7 +11,11 @@ function makeUL(array, seperator) {
         if (score_str in score_map) {
             score_str = score_map[score_str];
         }
-        item.appendChild(document.createTextNode(score_str + "  -   "));
+
+        score_element = document.createElement('label');
+        score_element.textContent = score_str + "  -  "
+        score_element.setAttribute("style","white-space: pre")
+        item.appendChild(score_element);
         var b = document.createElement("b");
         b.textContent = vals[0];
         item.appendChild(b);

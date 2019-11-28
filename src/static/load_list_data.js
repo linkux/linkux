@@ -5,6 +5,7 @@ function makeUL(array) {
         var item = document.createElement('li');
 
         item.appendChild(document.createTextNode(array[i]));
+        //item.setAttribute("style","max-width:100px");
 
         list.appendChild(item);
     }
