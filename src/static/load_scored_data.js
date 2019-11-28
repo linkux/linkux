@@ -35,12 +35,12 @@ function makeUL(array, seperator) {
         item.appendChild(b);
         item.appendChild(document.createTextNode(seperator + vals[1]));
 
-        fontsize_string = "4vw";
+        attribute_string = "font-size:4vw;margin-bottom:35px";
 
         if (screen.width > 421){
-            fontsize_string = "16px";
+            attribute_string = "font-size:16px;margin-bottom:8px";
         }
-        item.setAttribute("style","font-size:" + fontsize_string + ";margin-bottom:5px");
+        item.setAttribute("style",attribute_string);
 
         list.appendChild(item);
     }
