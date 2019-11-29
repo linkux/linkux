@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "http://nymag.com/intelligencer/2019/11/instagram-kevin-systrom.html" :
+    "In the 2010s, Instagram Became the World's Filter. Co-founder Kevin Systrom on truth, scale, and influencers."
+    },
+    {
     "" :
     "27/11/19 - Economist podcast says that in the past, songs used to climb top charts slowly (sometimes for years) " +
     "and then last years at the top. Now they rise very quickly and decline just as quickly. [It appears this is " +
