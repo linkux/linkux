@@ -1,7 +1,15 @@
 var interesting = [
     {
+    "http://nymag.com/intelligencer/2019/11/ta-nehisi-coates-on-obama-reparations-kaepernick.html" :
+    "In the 2010s, White America Was Finally Shown Itself. Ta-Nehisi Coates on \"Obama's decade\", reparations, and Kaepernick."
+    },
+    {
     "http://nymag.com/intelligencer/2019/11/instagram-kevin-systrom.html" :
     "In the 2010s, Instagram Became the World's Filter. Co-founder Kevin Systrom on truth, scale, and influencers."
+    },
+    {
+    "https://www.politico.com/news/magazine/2019/11/26/barack-obama-2020-democrats-candidates-biden-073025" :
+    "Waiting for Obama"
     },
     {
     "" :
@@ -19,7 +27,8 @@ var interesting = [
     },
     {
     "https://twitter.com/MLiebreich/status/1186915182309707776" :
-    "I don't think investors have yet realised that VW is essentially betting the company on EVs."},
+    "I don't think investors have yet realised that VW is essentially betting the company on EVs."
+    },
     {
     "https://twitter.com/JavierBlas/status/1184851934924234759" :
     "27/10/19 - For the 2nd consecutive week, the U.S. was last week a *net* oil exporter."
