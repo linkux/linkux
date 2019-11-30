@@ -10,6 +10,10 @@ def index():
 def books():
     return render_template('books.html')
 
+@app.route('/cool.html', methods=['GET','POST'])
+def cool():
+    return render_template('cool.html')
+
 @app.route('/countries.html', methods=['GET','POST'])
 def countries():
     return render_template('countries.html')
