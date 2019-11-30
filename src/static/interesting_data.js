@@ -2,7 +2,7 @@ var interesting = [
     {
     "https://www.chinalawblog.com/2019/11/how-to-conduct-business-with-chinese-companies-that-see-a-dark-future.html" :
     "How to Conduct Business with Chinese Companies That See a Dark Future"
-    }
+    },
     {
     "http://nymag.com/intelligencer/2019/11/ta-nehisi-coates-on-obama-reparations-kaepernick.html" :
     "In the 2010s, White America Was Finally Shown Itself. Ta-Nehisi Coates on \"Obama's decade\", reparations, and Kaepernick."
