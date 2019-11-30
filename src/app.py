@@ -26,6 +26,10 @@ def funny():
 def interesting():
     return render_template('interesting.html')
 
+@app.route('/israel.html', methods=['GET','POST'])
+def israel():
+    return render_template('israel.html')
+
 @app.route('/movies.html', methods=['GET','POST'])
 def movies():
     return render_template('movies.html')
