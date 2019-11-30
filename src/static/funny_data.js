@@ -1,4 +1,5 @@
 var funny = [
+    {"https://twitter.com/kemal_atlay/status/1199466815912468480" : "Flight attendant: Is there a doctor on this flight?"}
     {"https://twitter.com/spittinchiclets/status/1194119465362845696" : "hahaha"},
     {"https://twitter.com/EzraelAni/status/1185866691856732160" : "cool video"},
     {"https://twitter.com/SalHernandez/status/1185298573035917312" : "I thought this was a picture of Sabra hummus..."},
