@@ -1,4 +1,6 @@
 var funny = [
+    {"https://twitter.com/__demosthenes/status/1201212581245079552" : "Amazingly, not the asshole"},
+    {"https://twitter.com/RampCapitalLLC/status/1201235716669419522" : "Inventor: A wallet"},
     {"https://twitter.com/TweetPotato314/status/1200454343251693568" : "boss: you know what's weird"},
     {"https://twitter.com/kemal_atlay/status/1199466815912468480" : "Flight attendant: Is there a doctor on this flight?"},
     {"https://twitter.com/spittinchiclets/status/1194119465362845696" : "hahaha"},
