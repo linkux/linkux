@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "https://pioneer.app/blog/small-projects-big-companies/" :
+    "Small Projects, Big Companies"
+    },
+    {
     "https://www.chinalawblog.com/2019/11/how-to-conduct-business-with-chinese-companies-that-see-a-dark-future.html" :
     "How to Conduct Business with Chinese Companies That See a Dark Future"
     },

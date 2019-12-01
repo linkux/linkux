@@ -11,7 +11,6 @@ function makeUL(array) {
             var a = document.createElement('a');
             var linkText = document.createTextNode(val);
             a.appendChild(linkText);
-            //a.title = array[1];
             a.href = key;
             item.append(a);
         }
