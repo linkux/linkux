@@ -1,6 +1,7 @@
 var books_seperator = ", by ";
 
 var books = [
+    "Kochland: The Secret History of Koch Industries;Christopher Leonard;***",
     "Private Empire: ExxonMobil and American Power;Steve Coll;**",
     "The Man Who Solved The Market;Gregory Zuckerman;***",
     "Barbarian Days: A Surfing Life;William Finnegan;***",
