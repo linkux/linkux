@@ -4,9 +4,9 @@ const app = express()
 const path = require('path');
 
 const LoggerMiddleware = (req,res,next) =>{
-    const forwarded = req.headers['x-forwarded-for']
-    const ip = forwarded ? forwarded.split(/, /)[0] : req.connection.remoteAddress
-    output_str = `IP-${ip}, URL-${req.url}, METHOD-${req.method}, DATE-${new Date()}, USER_AGENT-${req.get('User-Agent')}`;
+    // This needs to be configured by nginx: proxy_set_header X-Real-IP $remote_addr;
+    const ip = req.headers['X-Real-IP;'];
+    output_str = `DATE-${new Date()}, HOST-{req.headers['host']}, IP-${ip}, URL-${req.url}, METHOD-${req.method}, USER_AGENT-${req.get('User-Agent')}`;
     fs.appendFile('node.log', output_str + `\n`, (err) => {
         if (err) throw err;
         console.log(output_str)
