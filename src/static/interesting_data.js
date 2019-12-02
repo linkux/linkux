@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "https://www.wsj.com/articles/huawei-manages-to-make-smartphones-without-american-chips-11575196201" :
+    "Huawei Manages to Make Smartphones Without American Chips"
+    },
+    {
     "https://www.youtube.com/watch?v=XYrFmji1wqo" :
     "Chamath Palihapitiya interview"
     },
