@@ -7,7 +7,7 @@ const LoggerMiddleware = (req,res,next) =>{
     // This needs to be configured by nginx: proxy_set_header X-Real-IP $remote_addr;
     const ip = req.headers['x-real-ip'];
     output_str = `${new Date()}, IP-${ip}, URL-${req.url}, METHOD-${req.method}, USER_AGENT-${req.get('User-Agent')}`;
-    fs.appendFile('node.log', output_str + `\n`, (err) => {
+    fs.appendFile('web_access.log', output_str + `\n`, (err) => {
         if (err) throw err;
         console.log(output_str)
     });
