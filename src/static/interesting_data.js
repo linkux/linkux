@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "https://alexdanco.com/2019/11/27/the-social-subsidy-of-angel-investing/" :
+    "The Social Subsidy of Angel Investing"
+    },
+    {
     "https://pioneer.app/blog/small-projects-big-companies/" :
     "Small Projects, Big Companies"
     },
