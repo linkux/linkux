@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "https://www.youtube.com/watch?v=XYrFmji1wqo" :
+    "Chamath Palihapitiya interview"
+    },
+    {
     "https://alexdanco.com/2019/11/27/the-social-subsidy-of-angel-investing/" :
     "The Social Subsidy of Angel Investing"
     },
