@@ -4,7 +4,9 @@ const app = express()
 const path = require('path');
 
 const LoggerMiddleware = (req,res,next) =>{
-    output_str = `IP-${req.connection.remoteAddress}, URL-${req.url}, METHOD-${req.method}, DATE-${new Date()}, USER_AGENT-${req.get('User-Agent')}`;
+    const forwarded = req.headers['x-forwarded-for']
+    const ip = forwarded ? forwarded.split(/, /)[0] : req.connection.remoteAddress
+    output_str = `IP-${ip}, URL-${req.url}, METHOD-${req.method}, DATE-${new Date()}, USER_AGENT-${req.get('User-Agent')}`;
     fs.appendFile('node.log', output_str + `\n`, (err) => {
         if (err) throw err;
         console.log(output_str)
