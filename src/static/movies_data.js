@@ -175,6 +175,7 @@ var movies = [
     "The Matrix (1999);;***",
     "American Pie (1999);;**",
     "The Blair Witch Project (1999);;*",
+    "10 Things I Hate About You (1999);;**",
     "The World is Not Enough (1999);;**",
     "Cruel Intentions (1999);;**",
     "Office Space (1999);;**",

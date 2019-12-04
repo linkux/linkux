@@ -1,5 +1,21 @@
 var interesting = [
     {
+    "https://www.forbes.com/sites/jeremybogaisky/2019/12/01/inside-larry-pages-kitty-hawk-returned-deposits-battery-fires-boeing-cora/" :
+    "Inside Larry Page’s Turbulent Kitty Hawk: Returned Deposits, Battery Fires And A Boeing Shakeup"
+    },
+    {
+    "https://www.wsj.com/articles/being-a-law-firm-partner-was-once-a-job-for-life-that-culture-is-all-but-dead-11565362437" :
+    "Being a Law Firm Partner Was Once a Job for Life. That Culture Is All but Dead."
+    },
+    {
+    "https://www.wsj.com/articles/amazon-is-americas-ceo-factory-11574263777" :
+    "Amazon Has Become America’s CEO Factory"
+    },
+    {
+    "https://conversationswithtyler.com/episodes/mark-zuckerberg-interviews-patrick-collison-and-tyler-cowen/" :
+    "Mark Zuckerberg interviews Patrick Collison and Tyler Cowen on the Nature and Causes of Progress"
+    },
+    {
     "https://www.wsj.com/articles/huawei-manages-to-make-smartphones-without-american-chips-11575196201" :
     "Huawei Manages to Make Smartphones Without American Chips"
     },
