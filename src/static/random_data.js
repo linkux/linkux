@@ -2,7 +2,7 @@ var random = [
     {
     "" :
     "String beans with rice is always more satiating than you originally think."
-    }
+    },
     {
     "" :
     "30/11/19 - Strange that Apple has $210 billion in cash but still sells bonds. I guess it's because they think reinvesting " +
