@@ -1,5 +1,16 @@
 var interesting = [
     {
+    "https://www.vice.com/en_us/article/bjw9e8/inside-rings-quest-to-become-law-enforcements-best-friend" :
+    "‘FUCK CRIME:’ Inside Ring’s Quest to Become Law Enforcement’s Best Friend"
+    },
+    {
+    "http://cognitivemedium.com/dac-notes" :
+    "The Impact of Direct Air Carbon Capture on Climate Change [The article states that $100-$200/ton of CO2 is " +
+    "probably feasible with today's carbon capture tech. If true, and considering that Canada's carbon tax is $20/ton " +
+    "and will grow to $50/ton, and the fact that the tech is far from its peak, there's reason for optimism " +
+    "with regards to climate change. The author thinks so too.]"
+    },
+    {
     "https://www.forbes.com/sites/jeremybogaisky/2019/12/01/inside-larry-pages-kitty-hawk-returned-deposits-battery-fires-boeing-cora/" :
     "Inside Larry Page’s Turbulent Kitty Hawk: Returned Deposits, Battery Fires And A Boeing Shakeup"
     },
