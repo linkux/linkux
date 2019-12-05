@@ -1,6 +1,13 @@
 var random = [
     {
     "" :
+    "4/12/19 - It's important to be proactive vs reactive. That's one reason why a news/social media fast is a good idea - " +
+    "you engage at specific times instead of just aimlessly browsing random stuff without even noticing. Most of us have " +
+    "tons of phone/computer habits that we don't even notice. They cost us a lot of time, especially since once you " +
+    "start it's easy to get sucked in."
+    },
+    {
+    "" :
     "4/12/19 - Thinking about the GAFA companies. " +
     "At $872bn, Amazon is way undervalued. My bet is that in 10 years, AWS and the logistics/retail " +
     "business will each be worth more than that. At $911bn, Google is also undervalued but to a lesser extent. " +
