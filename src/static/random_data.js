@@ -1,8 +1,12 @@
 var random = [
     {
     "" :
+    "5/12/19 - Too many books don't have an Audible version. Makes me read them much later."
+    },
+    {
+    "" :
     "4/12/19 - It's important to be proactive vs reactive. That's one reason why a news/social media fast is a good idea - " +
-    "you engage at specific times instead of just aimlessly browsing random stuff without even noticing. Most of us have " +
+    "you engage at specific times instead of just aimlessly browsing random stuff. Most of us have " +
     "tons of phone/computer habits that we don't even notice. They cost us a lot of time, especially since once you " +
     "start it's easy to get sucked in."
     },
