@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "https://about.bnef.com/blog/battery-pack-prices-fall-as-market-ramps-up-with-market-average-at-156-kwh-in-2019/" :
+    "Battery Pack Prices Fall As Market Ramps Up With Market Average At $156/kWh In 2019"
+    },
+    {
     "https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html" :
     "What Really Brought Down the Boeing 737 Max?"
     },
