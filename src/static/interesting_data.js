@@ -1,5 +1,17 @@
 var interesting = [
     {
+    "https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html" :
+    "What Really Brought Down the Boeing 737 Max?"
+    },
+    {
+    "http://narratively.com/nick-brown-smelled-bull" :
+    "Nick Brown Smelled Bull"
+    },
+    {
+    "https://arstechnica.com/information-technology/2019/12/new-crypto-cracking-record-reached-with-less-help-than-usual-from-moores-law/" :
+    "New crypto-cracking record reached, with less help than usual from Moore’s Law"
+    },
+    {
     "https://www.vice.com/en_us/article/bjw9e8/inside-rings-quest-to-become-law-enforcements-best-friend" :
     "‘FUCK CRIME:’ Inside Ring’s Quest to Become Law Enforcement’s Best Friend"
     },

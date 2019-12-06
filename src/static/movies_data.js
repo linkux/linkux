@@ -58,6 +58,7 @@ var movies = [
     "The Intouchables (2011);;***",
     "X-Men: First Class (2011);;**",
     "Moneyball (2011);;**",
+    "Margin Call (2011);;**",
     "Friends with Benefits (2011);;*",
     "Mission: Impossible - Ghost Protocol (2011);;**",
     "Captain America: The First Avenger (2011);;*",
