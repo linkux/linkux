@@ -1,6 +1,7 @@
 var books_seperator = ", by ";
 
 var books = [
+    "Ride of a Lifetime;Bob Iger;**",
     "Kochland: The Secret History of Koch Industries;Christopher Leonard;***",
     "Private Empire: ExxonMobil and American Power;Steve Coll;**",
     "The Man Who Solved The Market;Gregory Zuckerman;***",
