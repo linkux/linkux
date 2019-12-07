@@ -1,5 +1,25 @@
 var interesting = [
     {
+    "http://paulgraham.com/lesson.html" :
+    "The Lesson to Unlearn [Paul Graham excellent as usual]"
+    },
+    {
+    "https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again" :
+    "The “Great Cannon” has been deployed again"
+    },
+    {
+    "https://ny.curbed.com/2019/12/6/20999619/amazon-leases-hudson-yards-office-space-hq2" :
+    "Amazon leases Hudson Yards office space less than year after HQ2 debacle"
+    },
+    {
+    "https://www.washingtonpost.com/outlook/2019/12/04/we-need-hold-kremlin-responsible-its-cyberattack-olympics/" :
+    "We need to hold the Kremlin responsible for its 2018 cyberattack on the Olympics"
+    },
+    {
+    "https://twitter.com/tahabito/status/1185544780408901635?s=20" :
+    "The most under covered and arguably most consequential story out of Arab World in the last decade."
+    },
+    {
     "https://about.bnef.com/blog/battery-pack-prices-fall-as-market-ramps-up-with-market-average-at-156-kwh-in-2019/" :
     "Battery Pack Prices Fall As Market Ramps Up With Market Average At $156/kWh In 2019"
     },
