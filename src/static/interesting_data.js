@@ -1,5 +1,33 @@
 var interesting = [
     {
+    "https://www.newyorker.com/news/our-columnists/a-powerful-statement-of-resistance-from-a-college-student-on-trial-in-moscow" :
+    "A Powerful Statement of Resistance from a College Student on Trial in Moscow [This man is a hero]"
+    },
+    {
+    "https://www.nytimes.com/2019/12/06/business/energy-environment/saudi-aramco-ipo.html" :
+    "How Aramco’s Huge I.P.O. Fell Short of Saudi Prince’s Wish"
+    },
+    {
+    "https://www.darkreading.com/attacks-breaches/how-attackers-used-look-alike-domains-to-steal-$1-million-from-a-chinese-vc-/d/d-id/1336547" :
+    "How Attackers Used Look-Alike Domains to Steal $1 Million From a Chinese VC"
+    },
+    {
+    "https://thelastdriverlicenseholder.com/2019/11/15/waymo-engineers-answer-questions-about-autonomous-driving/" :
+    "Waymo Engineers Answer Questions About Autonomous Driving"
+    },
+    {
+    "https://www.foreignaffairs.com/articles/china/2019-12-06/new-china-scare" :
+    "The New China Scare [Don't agree with everything but some interesting points]"
+    },
+    {
+    "https://coffee-and-dreams.uk/security/2019/10/20/mitigating-a-ddos.html" :
+    "Mitigating a DDoS, or: how I learned to stop worrying and love the CDN"
+    },
+    {
+    "https://www.bbc.com/news/uk-50681489" :
+    "Briton Audrey Schoeman revived after six-hour cardiac arrest"
+    },
+    {
     "http://paulgraham.com/lesson.html" :
     "The Lesson to Unlearn [Paul Graham excellent as usual]"
     },
