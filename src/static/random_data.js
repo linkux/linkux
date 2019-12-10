@@ -1,6 +1,12 @@
 var random = [
     {
     "" :
+    "9/12/19 - An excellent Benedict Evans insight - we're sometimes worried about AI that works badly (e.g. bias in " +
+    "employment algorithms, bad parole decisions, etc) and other times worried about AI that works well (e.g. China " +
+    "using facial recognition on minorities, hyper-targeting of ads to specific people, etc)"
+    },
+    {
+    "" :
     "5/12/19 - Too many books don't have an Audible version. Makes me read them much later."
     },
     {

@@ -1,5 +1,17 @@
 var interesting = [
     {
+    "https://chadaustin.me/2019/11/two-years-at-dropbox/" :
+    "Two Years at Dropbox [Very forthcoming]"
+    },
+    {
+    "https://www.msn.com/en-us/news/money/fda-is-green-lighting-drugs-at-breakneck-speed-and-raising-alarm/ar-BBXRMmR" :
+    "FDA Approving Drugs at Breakneck Speed, Raising Alarm"
+    },
+    {
+    "https://arstechnica.com/information-technology/2019/12/hackerone-breach-lets-outside-hacker-read-customers-private-bug-reports/" :
+    "HackerOne breach lets outside hacker read customers’ private bug reports"
+    },
+    {
     "http://reactionwheel.net/2019/11/startups-and-uncertainty.html" :
     "Startups and Uncertainty [This is very good]"
     },
