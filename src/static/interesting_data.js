@@ -1,5 +1,9 @@
 var interesting = [
     {
+    "http://reactionwheel.net/2019/11/startups-and-uncertainty.html" :
+    "Startups and Uncertainty [This is very good]"
+    },
+    {
     "https://www.newyorker.com/news/our-columnists/a-powerful-statement-of-resistance-from-a-college-student-on-trial-in-moscow" :
     "A Powerful Statement of Resistance from a College Student on Trial in Moscow [This man is a hero]"
     },
