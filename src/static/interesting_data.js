@@ -1,5 +1,18 @@
 var interesting = [
     {
+    "https://www.theregister.co.uk/2019/12/09/apple_nuvia_ceo_suit/" :
+    "Apple sues iPhone CPU design ace after he quits to run data-center chip upstart Nuvia [With little info, seems " +
+    "like the employee acted unethically here]"
+    },
+    {
+    "https://www.bloomberg.com/news/articles/2019-12-04/why-cruise-lines-keep-cutting-their-ships-in-half-for-stretching" :
+    "Why Cruise Lines Keep Cutting Their Ships in Half [Didn't know it was possible to cut boats in half and add parts]"
+    },
+    {
+    "https://www.theatlantic.com/magazine/archive/2020/01/joe-biden-stutter-profile/602401/" :
+    "What Joe Biden Can’t Bring Himself to Say [Nice story on stuttering. Definitely good pr for Biden.]"
+    },
+    {
     "https://chadaustin.me/2019/11/two-years-at-dropbox/" :
     "Two Years at Dropbox [Very forthcoming]"
     },
