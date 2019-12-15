@@ -1,7 +1,7 @@
 var random = [
     {
     "" :
-    "15/12/19 - It's funny how people will crowd into a big auditorium to hear some big shot talk but most would " + "
+    "15/12/19 - It's funny how people will crowd into a big auditorium to hear some big shot talk but most would " +
     "never take the same time to watch a YouTube video of the same person or read an in-depth interview describing " +
     "that person's world view, although that usually has much higher leverage."
     },
