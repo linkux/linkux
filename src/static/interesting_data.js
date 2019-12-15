@@ -1,5 +1,25 @@
 var interesting = [
     {
+    "https://marginalrevolution.com/marginalrevolution/2019/12/sex-differences-in-personality-are-large-and-important.html" :
+    "Sex Differences in Personality are Large and Important"
+    },
+    {
+    "http://paulgraham.com/kids.html" :
+    "Having Kids"
+    },
+    {
+    "https://www.nytimes.com/2019/12/11/us/politics/fisa-surveillance-fbi.html" :
+    "We Just Got a Rare Look at National Security Surveillance. It Was Ugly."
+    },
+    {
+    "https://gothamist.com/news/pedestrian-fatally-crushed-between-two-parked-cars-after-one-vehicle-started-remotely" :
+    "Pedestrian Fatally Crushed Between Two Parked Cars After One Vehicle Is Started Remotely"
+    },
+    {
+    "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html" :
+    "Iran Banks Burned, Then Customer Accounts Were Exposed Online"
+    },
+    {
     "https://www.theregister.co.uk/2019/12/09/apple_nuvia_ceo_suit/" :
     "Apple sues iPhone CPU design ace after he quits to run data-center chip upstart Nuvia [With little info, seems " +
     "like the employee acted unethically here]"
