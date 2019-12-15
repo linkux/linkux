@@ -1,5 +1,13 @@
 var interesting = [
     {
+    "https://digitalassets.lib.berkeley.edu/roho/ucb/text/valentine_donald.pdf" :
+    "DONALD T. VALENTINE - EARLY BAY AREA VENTURE CAPITALISTS: SHAPING THE ECONOMIC AND BUSINESS LANDSCAPE [Excellent]"
+    },
+    {
+    "https://www.wired.com/story/the-next-nuclear-plants-will-be-small-svelte-and-safer/" :
+    "The Next Nuclear Plants Will Be Small, Svelte, and Safer [Turns out 'svelte' means slender (thin) and elegant]"
+    },
+    {
     "https://marginalrevolution.com/marginalrevolution/2019/12/sex-differences-in-personality-are-large-and-important.html" :
     "Sex Differences in Personality are Large and Important"
     },

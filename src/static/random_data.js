@@ -1,6 +1,17 @@
 var random = [
     {
     "" :
+    "15/12/19 - It's funny how people will crowd into a big auditorium to hear some big shot talk but most would " + "
+    "never take the same time to watch a YouTube video of the same person or read an in-depth interview describing " +
+    "that person's world view, although that usually has much higher leverage."
+    }
+    {
+    "" :
+    "15/12/19 - Having great tools is very important to being productive. This is true of software, your body, and " +
+    "many other things."
+    },
+    {
+    "" :
     "9/12/19 - An excellent Benedict Evans insight - we're sometimes worried about AI that works badly (e.g. bias in " +
     "employment algorithms, bad parole decisions, etc) and other times worried about AI that works well (e.g. China " +
     "using facial recognition on minorities, hyper-targeting of ads to specific people, etc)"
