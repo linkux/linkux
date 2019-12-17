@@ -1,5 +1,21 @@
 var interesting = [
     {
+    "https://www.wsj.com/articles/netflix-says-90-of-subscriber-growth-comes-from-overseas-11576532846" :
+    "Netflix Reveals New Data on Overseas Growth Amid Stiffer U.S. Competition"
+    },
+    {
+    "https://www.nytimes.com/2019/12/15/technology/amazon-aws-cloud-competition.html" :
+    "Prime Leverage: How Amazon Wields Power in the Technology World"
+    },
+    {
+    "https://www.scmp.com/tech/start-ups/article/3041407/grab-expands-food-and-finance-its-transport-business-no-longer" :
+    "As Grab expands to food and finance, its transport business is no longer driving most of its growth"
+    },
+    {
+    "https://www.cnbc.com/2019/12/12/analyst-amazon-delivering-nearly-half-its-packages-instead-of-ups-fedex.html" :
+    "Morgan Stanley estimates Amazon is already delivering half of its packages"
+    },
+    {
     "https://digitalassets.lib.berkeley.edu/roho/ucb/text/valentine_donald.pdf" :
     "DONALD T. VALENTINE - EARLY BAY AREA VENTURE CAPITALISTS: SHAPING THE ECONOMIC AND BUSINESS LANDSCAPE [Excellent]"
     },
