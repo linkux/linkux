@@ -1,6 +1,20 @@
 var random = [
     {
     "" :
+    "18/12/19 - I wonder if autonomous trucks will lead to more trucks being manufactured (more demand) or less " +
+    "(higher utilization). Intuition says more but not sure."
+    },
+    {
+    "" :
+    "18/12/19 - Within 10 years we'll probably have a converstional AI that humans can befriend. Once that " +
+    "happens, it'll be immoral to delete the model. That's pretty wild."
+    },
+    {
+    "" :
+    "18/12/19 - Bearish on Nvidia as a company. Seems much of their AI products will be unbundled and disrupted."
+    },
+    {
+    "" :
     "15/12/19 - It's funny how people will crowd into a big auditorium to hear some big shot talk but most would " +
     "never take the same time to watch a YouTube video of the same person or read an in-depth interview describing " +
     "that person's world view, although that usually has much higher leverage."

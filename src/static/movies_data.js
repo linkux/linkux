@@ -1,4 +1,5 @@
 var movies = [
+    "Ford Vs. Ferrari (2019);;**",
     "Avengers: Endgame (2019);;*",
     "John Wick: Chapter 3 - Parabellum (2019);;*",
     "Green Book (2018);;***",

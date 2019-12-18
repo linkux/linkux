@@ -1,5 +1,16 @@
 var interesting = [
     {
+    "https://podcasts.apple.com/us/podcast/the-portal/id1469999563?i=1000459811494" :
+    "Tyler Cowen - The Revolution Will Not Be Marginalized [The idea of feminization of society is interesting and " +
+    "seems important. One would expect that the growing role of women in public life has massive consequences but " +
+    "they're rarely discussed. For instance, Cowen claims that it's a reason why wars have become less popular since " +
+    "the 1970s]"
+    },
+    {
+    "https://www.wired.com/story/sobering-message-future-ai-party/" :
+    "A Sobering Message About the Future at AI's Biggest Party"
+    },
+    {
     "https://www.wsj.com/articles/netflix-says-90-of-subscriber-growth-comes-from-overseas-11576532846" :
     "Netflix Reveals New Data on Overseas Growth Amid Stiffer U.S. Competition"
     },
