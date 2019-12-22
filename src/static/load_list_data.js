@@ -31,5 +31,12 @@ function makeUL(array) {
 }
 
 function loadListData(data_name, data_source) {
+    /*fetch('/books.api')
+    .then(response => response.json())
+    .then(function(response) {
+        console.log(response);
+        document.getElementById(data_name).appendChild(makeUL([[response["a"]]]));
+        document.getElementById(data_name).appendChild(makeUL(data_source));
+    })*/
     document.getElementById(data_name).appendChild(makeUL(data_source));
 }

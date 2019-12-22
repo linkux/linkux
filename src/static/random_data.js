@@ -1,6 +1,12 @@
 var random = [
     {
     "" :
+    "21/12/19 - There's something reassuring about the fact that when discussing tech monopolies we're worried about " +
+    "four different companies (Apple, Google, Facebook, Amazon). They could still be monopolistic, especially in their " +
+    "different areas of strength, but there's inherent value in the fact that they have to compete against each other."
+    },
+    {
+    "" :
     "21/12/19 - There’s an interesting analogy between leading teams/corporations and designing software. You’d " +
     "think that you can just tell people (programs) what to do and it would be easy but it’s hard to understand " +
     "precisely what you want to achieve, let alone articulate it. Therefore clear thinking and clear articulating " +
