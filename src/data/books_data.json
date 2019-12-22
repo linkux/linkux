@@ -1,0 +1,552 @@
+[
+    {
+        "content" : "The Frackers",
+        "author" : "Gregory Zuckerman",
+        "score" : "**"
+    },
+    {
+        "content" : "Ride of a Lifetime",
+        "author" : "Bob Iger",
+        "score" : "**"
+    },
+    {
+        "content" : "Kochland: The Secret History of Koch Industries",
+        "author" : "Christopher Leonard",
+        "score" : "***"
+    },
+    {
+        "content" : "Private Empire: ExxonMobil and American Power",
+        "author" : "Steve Coll",
+        "score" : "**"
+    },
+    {
+        "content" : "The Man Who Solved The Market",
+        "author" : "Gregory Zuckerman",
+        "score" : "***"
+    },
+    {
+        "content" : "Barbarian Days: A Surfing Life",
+        "author" : "William Finnegan",
+        "score" : "***"
+    },
+    {
+        "content" : "The Mastermind",
+        "author" : "Evan Ratliff",
+        "score" : "*"
+    },
+    {
+        "content" : "Endurance: Shackleton's Incredible Voyage",
+        "author" : "Alfred Lansing",
+        "score" : "**"
+    },
+    {
+        "content" : "One Summer: America: 1927",
+        "author" : "Bill Bryson",
+        "score" : "*"
+    },
+    {
+        "content" : "The Wright Brothers",
+        "author" : "David McCullough",
+        "score" : "**"
+    },
+    {
+        "content" : "American Kingpin",
+        "author" : "Nick Bilton",
+        "score" : "**"
+    },
+    {
+        "content" : "Anti-Intellectualism in American Life",
+        "author" : "Richard Hofstadter",
+        "score" : "*"
+    },
+    {
+        "content" : "The Moral Animal: Why We Are, the Way We Are",
+        "author" : "Robert Wright",
+        "score" : "**"
+    },
+    {
+        "content" : "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
+        "author" : "John Krakauer",
+        "score" : "***"
+    },
+    {
+        "content" : "Energy and Civilization",
+        "author" : "Vaclav Smil",
+        "score" : "*"
+    },
+    {
+        "content" : "Taijiquan",
+        "author" : "Yang Yang",
+        "score" : "***"
+    },
+    {
+        "content" : "Three Body Problem",
+        "author" : "Cixin Liu",
+        "score" : "*"
+    },
+    {
+        "content" : "Spider Network",
+        "author" : "David Enrich",
+        "score" : "**"
+    },
+    {
+        "content" : "Coming Apart: The State of White America",
+        "author" : "Charles Murray",
+        "score" : "***"
+    },
+    {
+        "content" : "Walt Disney: The Triump of the American Imagination",
+        "author" : "Neal Gabler",
+        "score" : "**"
+    },
+    {
+        "content" : "Benjamin Franklin: An American Life",
+        "author" : "Walter Isaacson",
+        "score" : "*"
+    },
+    {
+        "content" : "Extreme Ownership",
+        "author" : "Jocko Willink, Leif Babin",
+        "score" : "*"
+    },
+    {
+        "content" : "Genghis Khan and the Making of the Modern World",
+        "author" : "Jack Weatherford",
+        "score" : "**"
+    },
+    {
+        "content" : "Last Man Standing",
+        "author" : "Duff McDonald",
+        "score" : "*"
+    },
+    {
+        "content" : "The Charm School",
+        "author" : "Nelson DeMille",
+        "score" : "*"
+    },
+    {
+        "content" : "Skunk Works: A Personal Memoir",
+        "author" : "Ben Rich",
+        "score" : "*"
+    },
+    {
+        "content" : "The Making of the Atomic Bomb",
+        "author" : "Richard Rhodes",
+        "score" : "***"
+    },
+    {
+        "content" : "Thinking in Bets",
+        "author" : "Annie Duke",
+        "score" : "*"
+    },
+    {
+        "content" : "China: A History",
+        "author" : "John Keay",
+        "score" : "*"
+    },
+    {
+        "content" : "Measure What Matters",
+        "author" : "John Doerr",
+        "score" : "*"
+    },
+    {
+        "content" : "Creative Selection",
+        "author" : "Ken Kocienda",
+        "score" : "**"
+    },
+    {
+        "content" : "The Rational Optimist",
+        "author" : "Matt Ridley",
+        "score" : "*"
+    },
+    {
+        "content" : "Brotopia",
+        "author" : "Emily Chang",
+        "score" : "*"
+    },
+    {
+        "content" : "The Signal and the Noise",
+        "author" : "Nate Silver",
+        "score" : "**"
+    },
+    {
+        "content" : "Behave: The Biology of Humans at our Best and Worst",
+        "author" : "Robert Sapolsky",
+        "score" : "*"
+    },
+    {
+        "content" : "Political Order and Political Decay",
+        "author" : "Francis Fukuyuma",
+        "score" : "***"
+    },
+    {
+        "content" : "Reset",
+        "author" : "Ellen Pao",
+        "score" : "**"
+    },
+    {
+        "content" : "The Origins of Political Order",
+        "author" : "Francis Fukuyama",
+        "score" : "***"
+    },
+    {
+        "content" : "High Output Management",
+        "author" : "Andy Grove",
+        "score" : "***"
+    },
+    {
+        "content" : "How to Fly a Horse",
+        "author" : "Hevin Ashton",
+        "score" : "*"
+    },
+    {
+        "content" : "The Beginning of Infinity",
+        "author" : "David Deutsch",
+        "score" : "*"
+    },
+    {
+        "content" : "Rocket Men",
+        "author" : "Robert Kurso",
+        "score" : "**"
+    },
+    {
+        "content" : "Ready Player One",
+        "author" : "Ernest Cline",
+        "score" : "**"
+    },
+    {
+        "content" : "Red Notice",
+        "author" : "Bill Browder",
+        "score" : "***"
+    },
+    {
+        "content" : "I Contain Multitudes",
+        "author" : "Ed Yong",
+        "score" : "*"
+    },
+    {
+        "content" : "On Writing: A Memoir of the Craft",
+        "author" : "Stephen King",
+        "score" : "**"
+    },
+    {
+        "content" : "How We Got to Now",
+        "author" : "Steven Johnson",
+        "score" : "*"
+    },
+    {
+        "content" : "Competing Against Luck",
+        "author" : "Taddy Hall, Clayton Christensen",
+        "score" : "*"
+    },
+    {
+        "content" : "Blind Man's Bluff",
+        "author" : "Christopher Drew, Sherry Sontag",
+        "score" : "*"
+    },
+    {
+        "content" : "Principles: Life and Work",
+        "author" : "Ray Dalio",
+        "score" : "**"
+    },
+    {
+        "content" : "Insanely Simple",
+        "author" : "Ken Segall",
+        "score" : "*"
+    },
+    {
+        "content" : "Negotiating the Impossible",
+        "author" : "Deepak Malhotra",
+        "score" : "*"
+    },
+    {
+        "content" : "Hit Makers: The Science of Popularity",
+        "author" : "Derek Thompson",
+        "score" : "**"
+    },
+    {
+        "content" : "The Upstarts",
+        "author" : "Brad Stone",
+        "score" : "**"
+    },
+    {
+        "content" : "Originals",
+        "author" : "Adam Grant,Sheryl Sandberg",
+        "score" : "*"
+    },
+    {
+        "content" : "Shoe Dog",
+        "author" : "Phil Knight",
+        "score" : "***"
+    },
+    {
+        "content" : "Never Split the Difference",
+        "author" : "Chris Voss",
+        "score" : "**"
+    },
+    {
+        "content" : "Chaos Monkeys",
+        "author" : "Antonio Garcia Martinez",
+        "score" : "**"
+    },
+    {
+        "content" : "The Hard Thing About Hard Thinks",
+        "author" : "Ben Horovitz",
+        "score" : "***"
+    },
+    {
+        "content" : "Algorithms to Live By",
+        "author" : "Brian Christian,Tom Griffiths",
+        "score" : "*"
+    },
+    {
+        "content" : "Antifragile",
+        "author" : "Nassim Nicholas Taleb",
+        "score" : "**"
+    },
+    {
+        "content" : "The Outsiders",
+        "author" : "William Thorndike",
+        "score" : "*"
+    },
+    {
+        "content" : "Blue Ocean Strategy",
+        "author" : "W. Chan Kim, Renee Mauborgne",
+        "score" : "*"
+    },
+    {
+        "content" : "The Lean Startup",
+        "author" : "Eric Reis",
+        "score" : "*"
+    },
+    {
+        "content" : "The Sleep Revolution",
+        "author" : "Arianna Huffington",
+        "score" : "*"
+    },
+    {
+        "content" : "Work Rules! Insights from Inside Google",
+        "author" : "Lazlo Bock",
+        "score" : "**"
+    },
+    {
+        "content" : "Losing the Signal",
+        "author" : "Sean Silcoff,Jacquie McNish",
+        "score" : "**"
+    },
+    {
+        "content" : "SuperIntelligence",
+        "author" : "Nick Bostrom",
+        "score" : "**"
+    },
+    {
+        "content" : "Pitch Perfect",
+        "author" : "Bill McGowan",
+        "score" : "*"
+    },
+    {
+        "content" : "Creativity, Inc.",
+        "author" : "Ed Catmull",
+        "score" : "**"
+    },
+    {
+        "content" : "Positioning",
+        "author" : "Al Ries,Jack Trout",
+        "score" : "**"
+    },
+    {
+        "content" : "Like A Virgin",
+        "author" : "Richard Branson",
+        "score" : "**"
+    },
+    {
+        "content" : "Ender's Game",
+        "author" : "Orson Scott Card",
+        "score" : "***"
+    },
+    {
+        "content" : "Superforcasting",
+        "author" : "Philip Tetlock, Dan Gardner",
+        "score" : "**"
+    },
+    {
+        "content" : "Duty: Memoirs of a Secretary at War",
+        "author" : "Robert Gates",
+        "score" : "*"
+    },
+    {
+        "content" : "The Like Switch",
+        "author" : "Jack Schafer, Marvin Karlins",
+        "score" : "*"
+    },
+    {
+        "content" : "Hooked: How to Build Habit-Forming Products",
+        "author" : "Nir Eyal",
+        "score" : "**"
+    },
+    {
+        "content" : "Smartcuts",
+        "author" : "Shane Snow",
+        "score" : "*"
+    },
+    {
+        "content" : "The Founder's Dilemmas",
+        "author" : "Noam Wasserman",
+        "score" : "*"
+    },
+    {
+        "content" : "Team of Teams",
+        "author" : "Stanley McChrystal",
+        "score" : "*"
+    },
+    {
+        "content" : "The Truth",
+        "author" : "Neil Strauss",
+        "score" : "**"
+    },
+    {
+        "content" : "Sell or be Sold",
+        "author" : "Grant Cardone",
+        "score" : "*"
+    },
+    {
+        "content" : "Behind the Cloud",
+        "author" : "Marc Benioff, Carlye Adler",
+        "score" : "*"
+    },
+    {
+        "content" : "Straight to Hell",
+        "author" : "John LeFever",
+        "score" : "**"
+    },
+    {
+        "content" : "Leading",
+        "author" : "Michael Moritz, Alex Ferguson",
+        "score" : "***"
+    },
+    {
+        "content" : "Waking Up",
+        "author" : "Sam Harris",
+        "score" : "*"
+    },
+    {
+        "content" : "Elon Musk",
+        "author" : "Ashlee Vance",
+        "score" : "***"
+    },
+    {
+        "content" : "The Victory Lab",
+        "author" : "Sasha Issenberg",
+        "score" : "*"
+    },
+    {
+        "content" : "How Will You Measure Your Life",
+        "author" : "Clayton Christensen, James Allworth",
+        "score" : "*"
+    },
+    {
+        "content" : "Hatching Twitter",
+        "author" : "Nick Bilton",
+        "score" : "**"
+    },
+    {
+        "content" : "The Organized Mind",
+        "author" : "Daniel Levitin",
+        "score" : "*"
+    },
+    {
+        "content" : "The Sell",
+        "author" : "Barbara Corcoran",
+        "score" : "*"
+    },
+    {
+        "content" : "Let's Stop Meeting Like This",
+        "author" : "Dick Axelrod, Emily Axelrod",
+        "score" : "*"
+    },
+    {
+        "content" : "The Creator's Code",
+        "author" : "Amy Wilkinson",
+        "score" : "*"
+    },
+    {
+        "content" : "Total Leadership",
+        "author" : "Stewart Friedman",
+        "score" : "*"
+    },
+    {
+        "content" : "Rework",
+        "author" : "Jason Fried, David Heinemeier Hannson",
+        "score" : "*"
+    },
+    {
+        "content" : "The $100 Startup",
+        "author" : "Chris Gulliebeau",
+        "score" : "*"
+    },
+    {
+        "content" : "The Everything Store",
+        "author" : "Brad Stone",
+        "score" : "***"
+    },
+    {
+        "content" : "Me, Myself and Us",
+        "author" : "Brian Little",
+        "score" : "*"
+    },
+    {
+        "content" : "Lying",
+        "author" : "Sam Harris",
+        "score" : "**"
+    },
+    {
+        "content" : "The Innovators",
+        "author" : "Walter Isaacson",
+        "score" : "**"
+    },
+    {
+        "content" : "The Female Brain",
+        "author" : "Louann Brizendine",
+        "score" : "**"
+    },
+    {
+        "content" : "Mortality",
+        "author" : "Christopher Hitchens",
+        "score" : "**"
+    },
+    {
+        "content" : "Thinking Fast and Slow",
+        "author" : "Daniel Kahnman",
+        "score" : "**"
+    },
+    {
+        "content" : "Steve Jobs",
+        "author" : "Walter Isaacson",
+        "score" : "***"
+    },
+    {
+        "content" : "Selling the Invisible",
+        "author" : "Harry Beckwith",
+        "score" : "*"
+    },
+    {
+        "content" : "The Power of Now",
+        "author" : "Eckhart Tolie",
+        "score" : "**"
+    },
+    {
+        "content" : "Winner Take All Politics",
+        "author" : "Jacob Hacker, Paul Pierson",
+        "score" : "*"
+    },
+    {
+        "content" : "Every Hand Revealed",
+        "author" : "Gus Hansen",
+        "score" : "**"
+    },
+    {
+        "content" : "The Mathematics of Poker",
+        "author" : "Bill Chen, Jerrod Ankenman",
+        "score" : "***"
+    }
+]

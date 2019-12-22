@@ -1,22 +1,26 @@
 function makeUL(array) {
     var list = document.createElement('ul');
 
-    for (var i = 0; i < array.length; i++) {
+    for (val of array) {
         var item = document.createElement('li');
 
-        var key = Array.from(Object.keys(array[i]))[0];
-        var val = array[i][key];
+        var link = val["link"];
+        var text = val["content"];
 
-        if (key.startsWith("http")) {
+        if ("date" in val) {
+            text = val["date"] + " - " + text
+        }
+
+        if (link.startsWith("http")) {
             var a = document.createElement('a');
-            var linkText = document.createTextNode(val);
+            var linkText = document.createTextNode(text);
             a.appendChild(linkText);
-            a.href = key;
+            a.href = link;
             item.append(a);
         }
         else
         {
-            item.appendChild(document.createTextNode(val));
+            item.appendChild(document.createTextNode(text));
         }
         fontsize_string = "4vw";
 
@@ -30,13 +34,10 @@ function makeUL(array) {
     return list;
 }
 
-function loadListData(data_name, data_source) {
-    /*fetch('/books.api')
+function loadListData(data_name) {
+    fetch("/" + data_name + ".api")
     .then(response => response.json())
     .then(function(response) {
-        console.log(response);
-        document.getElementById(data_name).appendChild(makeUL([[response["a"]]]));
-        document.getElementById(data_name).appendChild(makeUL(data_source));
-    })*/
-    document.getElementById(data_name).appendChild(makeUL(data_source));
+        document.getElementById(data_name).appendChild(makeUL(response));
+    })
 }

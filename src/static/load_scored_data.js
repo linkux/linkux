@@ -15,11 +15,10 @@ function makeNote() {
 function makeUL(array, seperator) {
     var list = document.createElement('ul');
 
-    for (var i = 0; i < array.length; i++) {
+    for (val of array) {
         var item = document.createElement('li');
 
-        var vals = array[i].split(";")
-        var score_str = vals[2]
+        var score_str = val["score"]
         if (score_str in score_map) {
             score_str = score_map[score_str];
         }
@@ -30,10 +29,13 @@ function makeUL(array, seperator) {
         item.appendChild(score_element);
 
         var b = document.createElement("b");
-        b.textContent = vals[0];
+        b.textContent = val["content"];
+        //if "author" in
 
         item.appendChild(b);
-        item.appendChild(document.createTextNode(seperator + vals[1]));
+        if ("author" in val) {
+            item.appendChild(document.createTextNode(seperator + val["author"]));
+        }
 
         attribute_string = "font-size:4vw;margin-bottom:35px";
 
@@ -47,7 +49,11 @@ function makeUL(array, seperator) {
     return list;
 }
 
-function loadScoredData(data_name, data_source, seperator = "") {
+function loadScoredData(data_name, seperator = "") {
     document.getElementById(data_name).appendChild(makeNote());
-    document.getElementById(data_name).appendChild(makeUL(data_source, seperator));
+    fetch("/" + data_name + ".api")
+    .then(response => response.json())
+    .then(function(response) {
+        document.getElementById(data_name).appendChild(makeUL(response, seperator));
+    })
 }

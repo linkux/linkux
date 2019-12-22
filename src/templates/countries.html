@@ -10,26 +10,30 @@
     <body>
         <h3>Countries</h3>
         <h2><a href="/" class="link_back">Back to Home Page</a></h2>
-        <p id="countries_data"></p>
-        <script src="static/countries_data.js"></script>
+        <p id="countries"></p>
         <script>
-            var list = document.createElement('ol');
+            fetch("/countries.api")
+            .then(response => response.json())
+            .then(function(response) {
+                var list = document.createElement('ol');
+                var countries = response;
 
-            for (var i = 0; i < countries.length; i++) {
-                var item = document.createElement('li');
+                for (country of countries) {
+                    var item = document.createElement('li');
 
-                item.appendChild(document.createTextNode(countries[i]));
+                    item.appendChild(document.createTextNode(country));
 
-                attribute_string = "font-size:4vw;margin:40px;margin-bottom:10px;font-family:Unispace";;
+                    attribute_string = "font-size:4vw;margin:40px;margin-bottom:10px;font-family:Unispace";;
 
-                if (screen.width > 421){
-                    attribute_string = "font-size:16px;margin:10px;margin-bottom:2px;font-family:Unispace";
+                    if (screen.width > 421){
+                        attribute_string = "font-size:16px;margin:10px;margin-bottom:2px;font-family:Unispace";
+                    }
+                    item.setAttribute("style", attribute_string);
+
+                    list.appendChild(item);
                 }
-                item.setAttribute("style", attribute_string);
-
-                list.appendChild(item);
-            }
-            document.getElementById("countries_data").appendChild(list);
+                document.getElementById("countries").appendChild(list);
+            })
         </script>
     </body>
 </html>

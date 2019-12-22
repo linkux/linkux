@@ -1,3 +1,5 @@
+// run with "nodemon node-server/index.js"
+
 const express = require('express');
 const fs = require('fs');
 const app = express()
@@ -24,8 +26,21 @@ app.use(express.static(__dirname + "/.."));
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname + '/../templates/index.html'));
 });
-/*app.get("/books.api", (req,res) => {1
-    res.sendFile(path.join(__dirname + '/../templates/test.json'));
-});*/
+
+var api_strings = ["cool", "countries", "random", "funny","israel", "interesting", "movies", "books"];
+var api_endpoints = [];
+for (api_string of api_strings) {
+    api_endpoints.push("/" + api_string + ".api");
+}
+
+app.get(api_endpoints, (req,res) => {
+    var endpoint_path = req.originalUrl;
+    var endpoint_str = endpoint_path.replace("/","").replace(".api","");
+
+    var data = fs.readFileSync(__dirname + '/../data/' + endpoint_str + '_data.json','utf8')
+    var data_parsed = JSON.parse(data);
+
+    res.send(data_parsed);
+});
 
 app.listen(3001);
