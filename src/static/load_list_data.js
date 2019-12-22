@@ -7,8 +7,8 @@ function makeUL(array) {
         var link = val["link"];
         var text = val["content"];
 
-        if ("date" in val) {
-            text = val["date"] + " - " + text
+        if (("publish_date" in val) & (val["show_date"])) {
+            text = val["publish_date"].split("T")[0] + " - " + text
         }
 
         if (link.startsWith("http")) {

@@ -1,240 +1,415 @@
 [
     {
-        "link" : "http://nymag.com/intelligencer/amp/2019/12/boris-johnson-brexit.html",
-        "content" : "The Blundering Brilliance of Prime Minister Boris Johnson"
+        "link": "http://nymag.com/intelligencer/amp/2019/12/boris-johnson-brexit.html",
+        "content": "The Blundering Brilliance of Prime Minister Boris Johnson",
+        "id": 58,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.theinformation.com/articles/to-control-its-destiny-facebook-bets-big-on-hardware",
-        "content" : "To Control Its Destiny, Facebook Bets Big on Hardware"
+        "link": "https://www.theinformation.com/articles/to-control-its-destiny-facebook-bets-big-on-hardware",
+        "content": "To Control Its Destiny, Facebook Bets Big on Hardware",
+        "id": 57,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/",
-        "content" : "Facebook has a neural network that can do advanced math"
+        "link": "https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/",
+        "content": "Facebook has a neural network that can do advanced math",
+        "id": 56,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://podcasts.apple.com/us/podcast/the-portal/id1469999563?i=1000459811494",
-        "content" : "Tyler Cowen - The Revolution Will Not Be Marginalized [The idea of feminization of society is interesting and seems important. One would expect that the growing role of women in public life has massive consequences but they're rarely discussed. For instance, Cowen claims that it's a reason why wars have become less popular since the 1970s]"
+        "link": "https://podcasts.apple.com/us/podcast/the-portal/id1469999563?i=1000459811494",
+        "content": "Tyler Cowen - The Revolution Will Not Be Marginalized [The idea of feminization of society is interesting and seems important. One would expect that the growing role of women in public life has massive consequences but they're rarely discussed. For instance, Cowen claims that it's a reason why wars have become less popular since the 1970s]",
+        "id": 55,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.wired.com/story/sobering-message-future-ai-party/",
-        "content" : "A Sobering Message About the Future at AI's Biggest Party"
+        "link": "https://www.wired.com/story/sobering-message-future-ai-party/",
+        "content": "A Sobering Message About the Future at AI's Biggest Party",
+        "id": 54,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.wsj.com/articles/netflix-says-90-of-subscriber-growth-comes-from-overseas-11576532846",
-        "content" : "Netflix Reveals New Data on Overseas Growth Amid Stiffer U.S. Competition"
+        "link": "https://www.wsj.com/articles/netflix-says-90-of-subscriber-growth-comes-from-overseas-11576532846",
+        "content": "Netflix Reveals New Data on Overseas Growth Amid Stiffer U.S. Competition",
+        "id": 53,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.nytimes.com/2019/12/15/technology/amazon-aws-cloud-competition.html",
-        "content" : "Prime Leverage: How Amazon Wields Power in the Technology World"
+        "link": "https://www.nytimes.com/2019/12/15/technology/amazon-aws-cloud-competition.html",
+        "content": "Prime Leverage: How Amazon Wields Power in the Technology World",
+        "id": 52,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.scmp.com/tech/start-ups/article/3041407/grab-expands-food-and-finance-its-transport-business-no-longer",
-        "content" : "As Grab expands to food and finance, its transport business is no longer driving most of its growth"
+        "link": "https://www.scmp.com/tech/start-ups/article/3041407/grab-expands-food-and-finance-its-transport-business-no-longer",
+        "content": "As Grab expands to food and finance, its transport business is no longer driving most of its growth",
+        "id": 51,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.cnbc.com/2019/12/12/analyst-amazon-delivering-nearly-half-its-packages-instead-of-ups-fedex.html",
-        "content" : "Morgan Stanley estimates Amazon is already delivering half of its packages"
+        "link": "https://www.cnbc.com/2019/12/12/analyst-amazon-delivering-nearly-half-its-packages-instead-of-ups-fedex.html",
+        "content": "Morgan Stanley estimates Amazon is already delivering half of its packages",
+        "id": 50,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://digitalassets.lib.berkeley.edu/roho/ucb/text/valentine_donald.pdf",
-        "content" : "DONALD T. VALENTINE - EARLY BAY AREA VENTURE CAPITALISTS: SHAPING THE ECONOMIC AND BUSINESS LANDSCAPE [Excellent]"
+        "link": "https://digitalassets.lib.berkeley.edu/roho/ucb/text/valentine_donald.pdf",
+        "content": "DONALD T. VALENTINE - EARLY BAY AREA VENTURE CAPITALISTS: SHAPING THE ECONOMIC AND BUSINESS LANDSCAPE [Excellent]",
+        "id": 49,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.wired.com/story/the-next-nuclear-plants-will-be-small-svelte-and-safer/",
-        "content" : "The Next Nuclear Plants Will Be Small, Svelte, and Safer [Turns out 'svelte' means slender (thin) and elegant]"
+        "link": "https://www.wired.com/story/the-next-nuclear-plants-will-be-small-svelte-and-safer/",
+        "content": "The Next Nuclear Plants Will Be Small, Svelte, and Safer [Turns out 'svelte' means slender (thin) and elegant]",
+        "id": 48,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://marginalrevolution.com/marginalrevolution/2019/12/sex-differences-in-personality-are-large-and-important.html",
-        "content" : "Sex Differences in Personality are Large and Important"
+        "link": "https://marginalrevolution.com/marginalrevolution/2019/12/sex-differences-in-personality-are-large-and-important.html",
+        "content": "Sex Differences in Personality are Large and Important",
+        "id": 47,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://paulgraham.com/kids.html",
-        "content" : "Having Kids"
+        "link": "http://paulgraham.com/kids.html",
+        "content": "Having Kids",
+        "id": 46,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.nytimes.com/2019/12/11/us/politics/fisa-surveillance-fbi.html",
-        "content" : "We Just Got a Rare Look at National Security Surveillance. It Was Ugly."
+        "link": "https://www.nytimes.com/2019/12/11/us/politics/fisa-surveillance-fbi.html",
+        "content": "We Just Got a Rare Look at National Security Surveillance. It Was Ugly.",
+        "id": 45,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://gothamist.com/news/pedestrian-fatally-crushed-between-two-parked-cars-after-one-vehicle-started-remotely",
-        "content" : "Pedestrian Fatally Crushed Between Two Parked Cars After One Vehicle Is Started Remotely"
+        "link": "https://gothamist.com/news/pedestrian-fatally-crushed-between-two-parked-cars-after-one-vehicle-started-remotely",
+        "content": "Pedestrian Fatally Crushed Between Two Parked Cars After One Vehicle Is Started Remotely",
+        "id": 44,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html",
-        "content" : "Iran Banks Burned, Then Customer Accounts Were Exposed Online"
+        "link": "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html",
+        "content": "Iran Banks Burned, Then Customer Accounts Were Exposed Online",
+        "id": 43,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.theregister.co.uk/2019/12/09/apple_nuvia_ceo_suit/",
-        "content" : "Apple sues iPhone CPU design ace after he quits to run data-center chip upstart Nuvia [With little info, seems like the employee acted unethically here]"
+        "link": "https://www.theregister.co.uk/2019/12/09/apple_nuvia_ceo_suit/",
+        "content": "Apple sues iPhone CPU design ace after he quits to run data-center chip upstart Nuvia [With little info, seems like the employee acted unethically here]",
+        "id": 42,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.bloomberg.com/news/articles/2019-12-04/why-cruise-lines-keep-cutting-their-ships-in-half-for-stretching",
-        "content" : "Why Cruise Lines Keep Cutting Their Ships in Half [Didn't know it was possible to cut boats in half and add parts]"
+        "link": "https://www.bloomberg.com/news/articles/2019-12-04/why-cruise-lines-keep-cutting-their-ships-in-half-for-stretching",
+        "content": "Why Cruise Lines Keep Cutting Their Ships in Half [Didn't know it was possible to cut boats in half and add parts]",
+        "id": 41,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.theatlantic.com/magazine/archive/2020/01/joe-biden-stutter-profile/602401/",
-        "content" : "What Joe Biden Can’t Bring Himself to Say [Nice story on stuttering. Definitely good pr for Biden.]"
+        "link": "https://www.theatlantic.com/magazine/archive/2020/01/joe-biden-stutter-profile/602401/",
+        "content": "What Joe Biden Can’t Bring Himself to Say [Nice story on stuttering. Definitely good pr for Biden.]",
+        "id": 40,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://chadaustin.me/2019/11/two-years-at-dropbox/",
-        "content" : "Two Years at Dropbox [Very forthcoming]"
+        "link": "https://chadaustin.me/2019/11/two-years-at-dropbox/",
+        "content": "Two Years at Dropbox [Very forthcoming]",
+        "id": 39,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.msn.com/en-us/news/money/fda-is-green-lighting-drugs-at-breakneck-speed-and-raising-alarm/ar-BBXRMmR",
-        "content" : "FDA Approving Drugs at Breakneck Speed, Raising Alarm"
+        "link": "https://www.msn.com/en-us/news/money/fda-is-green-lighting-drugs-at-breakneck-speed-and-raising-alarm/ar-BBXRMmR",
+        "content": "FDA Approving Drugs at Breakneck Speed, Raising Alarm",
+        "id": 38,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://arstechnica.com/information-technology/2019/12/hackerone-breach-lets-outside-hacker-read-customers-private-bug-reports/",
-        "content" : "HackerOne breach lets outside hacker read customers’ private bug reports"
+        "link": "https://arstechnica.com/information-technology/2019/12/hackerone-breach-lets-outside-hacker-read-customers-private-bug-reports/",
+        "content": "HackerOne breach lets outside hacker read customers’ private bug reports",
+        "id": 37,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://reactionwheel.net/2019/11/startups-and-uncertainty.html",
-        "content" : "Startups and Uncertainty [This is very good]"
+        "link": "http://reactionwheel.net/2019/11/startups-and-uncertainty.html",
+        "content": "Startups and Uncertainty [This is very good]",
+        "id": 36,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.newyorker.com/news/our-columnists/a-powerful-statement-of-resistance-from-a-college-student-on-trial-in-moscow",
-        "content" : "A Powerful Statement of Resistance from a College Student on Trial in Moscow [This man is a hero]"
+        "link": "https://www.newyorker.com/news/our-columnists/a-powerful-statement-of-resistance-from-a-college-student-on-trial-in-moscow",
+        "content": "A Powerful Statement of Resistance from a College Student on Trial in Moscow [This man is a hero]",
+        "id": 35,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.nytimes.com/2019/12/06/business/energy-environment/saudi-aramco-ipo.html",
-        "content" : "How Aramco’s Huge I.P.O. Fell Short of Saudi Prince’s Wish"
+        "link": "https://www.nytimes.com/2019/12/06/business/energy-environment/saudi-aramco-ipo.html",
+        "content": "How Aramco’s Huge I.P.O. Fell Short of Saudi Prince’s Wish",
+        "id": 34,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.darkreading.com/attacks-breaches/how-attackers-used-look-alike-domains-to-steal-$1-million-from-a-chinese-vc-/d/d-id/1336547",
-        "content" : "How Attackers Used Look-Alike Domains to Steal $1 Million From a Chinese VC"
+        "link": "https://www.darkreading.com/attacks-breaches/how-attackers-used-look-alike-domains-to-steal-$1-million-from-a-chinese-vc-/d/d-id/1336547",
+        "content": "How Attackers Used Look-Alike Domains to Steal $1 Million From a Chinese VC",
+        "id": 33,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://thelastdriverlicenseholder.com/2019/11/15/waymo-engineers-answer-questions-about-autonomous-driving/",
-        "content" : "Waymo Engineers Answer Questions About Autonomous Driving"
+        "link": "https://thelastdriverlicenseholder.com/2019/11/15/waymo-engineers-answer-questions-about-autonomous-driving/",
+        "content": "Waymo Engineers Answer Questions About Autonomous Driving",
+        "id": 32,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.foreignaffairs.com/articles/china/2019-12-06/new-china-scare",
-        "content" : "The New China Scare [Don't agree with everything but some interesting points]"
+        "link": "https://www.foreignaffairs.com/articles/china/2019-12-06/new-china-scare",
+        "content": "The New China Scare [Don't agree with everything but some interesting points]",
+        "id": 31,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://coffee-and-dreams.uk/security/2019/10/20/mitigating-a-ddos.html",
-        "content" : "Mitigating a DDoS, or: how I learned to stop worrying and love the CDN"
+        "link": "https://coffee-and-dreams.uk/security/2019/10/20/mitigating-a-ddos.html",
+        "content": "Mitigating a DDoS, or: how I learned to stop worrying and love the CDN",
+        "id": 30,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.bbc.com/news/uk-50681489",
-        "content" : "Briton Audrey Schoeman revived after six-hour cardiac arrest"
+        "link": "https://www.bbc.com/news/uk-50681489",
+        "content": "Briton Audrey Schoeman revived after six-hour cardiac arrest",
+        "id": 29,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://paulgraham.com/lesson.html",
-        "content" : "The Lesson to Unlearn [Paul Graham excellent as usual]"
+        "link": "http://paulgraham.com/lesson.html",
+        "content": "The Lesson to Unlearn [Paul Graham excellent as usual]",
+        "id": 28,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again",
-        "content" : "The “Great Cannon” has been deployed again"
+        "link": "https://cybersecurity.att.com/blogs/labs-research/the-great-cannon-has-been-deployed-again",
+        "content": "The “Great Cannon” has been deployed again",
+        "id": 27,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://ny.curbed.com/2019/12/6/20999619/amazon-leases-hudson-yards-office-space-hq2",
-        "content" : "Amazon leases Hudson Yards office space less than year after HQ2 debacle"
+        "link": "https://ny.curbed.com/2019/12/6/20999619/amazon-leases-hudson-yards-office-space-hq2",
+        "content": "Amazon leases Hudson Yards office space less than year after HQ2 debacle",
+        "id": 26,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.washingtonpost.com/outlook/2019/12/04/we-need-hold-kremlin-responsible-its-cyberattack-olympics/",
-        "content" : "We need to hold the Kremlin responsible for its 2018 cyberattack on the Olympics"
+        "link": "https://www.washingtonpost.com/outlook/2019/12/04/we-need-hold-kremlin-responsible-its-cyberattack-olympics/",
+        "content": "We need to hold the Kremlin responsible for its 2018 cyberattack on the Olympics",
+        "id": 25,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://twitter.com/tahabito/status/1185544780408901635?s=20",
-        "content" : "The most under covered and arguably most consequential story out of Arab World in the last decade."
+        "link": "https://twitter.com/tahabito/status/1185544780408901635?s=20",
+        "content": "The most under covered and arguably most consequential story out of Arab World in the last decade.",
+        "id": 24,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://about.bnef.com/blog/battery-pack-prices-fall-as-market-ramps-up-with-market-average-at-156-kwh-in-2019/",
-        "content" : "Battery Pack Prices Fall As Market Ramps Up With Market Average At $156/kWh In 2019"
+        "link": "https://about.bnef.com/blog/battery-pack-prices-fall-as-market-ramps-up-with-market-average-at-156-kwh-in-2019/",
+        "content": "Battery Pack Prices Fall As Market Ramps Up With Market Average At $156/kWh In 2019",
+        "id": 23,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html",
-        "content" : "What Really Brought Down the Boeing 737 Max?"
+        "link": "https://www.nytimes.com/2019/09/18/magazine/boeing-737-max-crashes.html",
+        "content": "What Really Brought Down the Boeing 737 Max?",
+        "id": 22,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://narratively.com/nick-brown-smelled-bull",
-        "content" : "Nick Brown Smelled Bull"
+        "link": "http://narratively.com/nick-brown-smelled-bull",
+        "content": "Nick Brown Smelled Bull",
+        "id": 21,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://arstechnica.com/information-technology/2019/12/new-crypto-cracking-record-reached-with-less-help-than-usual-from-moores-law/",
-        "content" : "New crypto-cracking record reached, with less help than usual from Moore’s Law"
+        "link": "https://arstechnica.com/information-technology/2019/12/new-crypto-cracking-record-reached-with-less-help-than-usual-from-moores-law/",
+        "content": "New crypto-cracking record reached, with less help than usual from Moore’s Law",
+        "id": 20,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.vice.com/en_us/article/bjw9e8/inside-rings-quest-to-become-law-enforcements-best-friend",
-        "content" : "‘FUCK CRIME:’ Inside Ring’s Quest to Become Law Enforcement’s Best Friend"
+        "link": "https://www.vice.com/en_us/article/bjw9e8/inside-rings-quest-to-become-law-enforcements-best-friend",
+        "content": "‘FUCK CRIME:’ Inside Ring’s Quest to Become Law Enforcement’s Best Friend",
+        "id": 19,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://cognitivemedium.com/dac-notes",
-        "content" : "The Impact of Direct Air Carbon Capture on Climate Change [The article states that $100-$200/ton of CO2 is probably feasible with today's carbon capture tech. If true, and considering that Canada's carbon tax is $20/ton and will grow to $50/ton, and the fact that the tech is far from its peak, there's reason for optimism with regards to climate change. The author thinks so too.]"
+        "link": "http://cognitivemedium.com/dac-notes",
+        "content": "The Impact of Direct Air Carbon Capture on Climate Change [The article states that $100-$200/ton of CO2 is probably feasible with today's carbon capture tech. If true, and considering that Canada's carbon tax is $20/ton and will grow to $50/ton, and the fact that the tech is far from its peak, there's reason for optimism with regards to climate change. The author thinks so too.]",
+        "id": 18,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" :"https://www.forbes.com/sites/jeremybogaisky/2019/12/01/inside-larry-pages-kitty-hawk-returned-deposits-battery-fires-boeing-cora/",
-        "content" : "Inside Larry Page’s Turbulent Kitty Hawk: Returned Deposits, Battery Fires And A Boeing Shakeup"
+        "link": "https://www.forbes.com/sites/jeremybogaisky/2019/12/01/inside-larry-pages-kitty-hawk-returned-deposits-battery-fires-boeing-cora/",
+        "content": "Inside Larry Page’s Turbulent Kitty Hawk: Returned Deposits, Battery Fires And A Boeing Shakeup",
+        "id": 17,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.wsj.com/articles/being-a-law-firm-partner-was-once-a-job-for-life-that-culture-is-all-but-dead-11565362437",
-        "content" : "Being a Law Firm Partner Was Once a Job for Life. That Culture Is All but Dead."
+        "link": "https://www.wsj.com/articles/being-a-law-firm-partner-was-once-a-job-for-life-that-culture-is-all-but-dead-11565362437",
+        "content": "Being a Law Firm Partner Was Once a Job for Life. That Culture Is All but Dead.",
+        "id": 16,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.wsj.com/articles/amazon-is-americas-ceo-factory-11574263777",
-        "content" : "Amazon Has Become America’s CEO Factory"
+        "link": "https://www.wsj.com/articles/amazon-is-americas-ceo-factory-11574263777",
+        "content": "Amazon Has Become America’s CEO Factory",
+        "id": 15,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://conversationswithtyler.com/episodes/mark-zuckerberg-interviews-patrick-collison-and-tyler-cowen/",
-        "content" : "Mark Zuckerberg interviews Patrick Collison and Tyler Cowen on the Nature and Causes of Progress"
+        "link": "https://conversationswithtyler.com/episodes/mark-zuckerberg-interviews-patrick-collison-and-tyler-cowen/",
+        "content": "Mark Zuckerberg interviews Patrick Collison and Tyler Cowen on the Nature and Causes of Progress",
+        "id": 14,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.wsj.com/articles/huawei-manages-to-make-smartphones-without-american-chips-11575196201",
-        "content" : "Huawei Manages to Make Smartphones Without American Chips"
+        "link": "https://www.wsj.com/articles/huawei-manages-to-make-smartphones-without-american-chips-11575196201",
+        "content": "Huawei Manages to Make Smartphones Without American Chips",
+        "id": 13,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.youtube.com/watch?v=XYrFmji1wqo",
-        "content" : "Chamath Palihapitiya interview"
+        "link": "https://www.youtube.com/watch?v=XYrFmji1wqo",
+        "content": "Chamath Palihapitiya interview",
+        "id": 12,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://alexdanco.com/2019/11/27/the-social-subsidy-of-angel-investing/",
-        "content" : "The Social Subsidy of Angel Investing"
+        "link": "https://alexdanco.com/2019/11/27/the-social-subsidy-of-angel-investing/",
+        "content": "The Social Subsidy of Angel Investing",
+        "id": 11,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://pioneer.app/blog/small-projects-big-companies/",
-        "content" : "Small Projects, Big Companies"
+        "link": "https://pioneer.app/blog/small-projects-big-companies/",
+        "content": "Small Projects, Big Companies",
+        "id": 10,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.chinalawblog.com/2019/11/how-to-conduct-business-with-chinese-companies-that-see-a-dark-future.html",
-        "content" : "How to Conduct Business with Chinese Companies That See a Dark Future"
+        "link": "https://www.chinalawblog.com/2019/11/how-to-conduct-business-with-chinese-companies-that-see-a-dark-future.html",
+        "content": "How to Conduct Business with Chinese Companies That See a Dark Future",
+        "id": 9,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://nymag.com/intelligencer/2019/11/ta-nehisi-coates-on-obama-reparations-kaepernick.html",
-        "content" : "In the 2010s, White America Was Finally Shown Itself. Ta-Nehisi Coates on \"Obama's decade\", reparations, and Kaepernick."
+        "link": "http://nymag.com/intelligencer/2019/11/ta-nehisi-coates-on-obama-reparations-kaepernick.html",
+        "content": "In the 2010s, White America Was Finally Shown Itself. Ta-Nehisi Coates on \"Obama's decade\", reparations, and Kaepernick.",
+        "id": 8,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "http://nymag.com/intelligencer/2019/11/instagram-kevin-systrom.html",
-        "content" : "In the 2010s, Instagram Became the World's Filter. Co-founder Kevin Systrom on truth, scale, and influencers."
+        "link": "http://nymag.com/intelligencer/2019/11/instagram-kevin-systrom.html",
+        "content": "In the 2010s, Instagram Became the World's Filter. Co-founder Kevin Systrom on truth, scale, and influencers.",
+        "id": 7,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.politico.com/news/magazine/2019/11/26/barack-obama-2020-democrats-candidates-biden-073025",
-        "content" : "Waiting for Obama"
+        "link": "https://www.politico.com/news/magazine/2019/11/26/barack-obama-2020-democrats-candidates-biden-073025",
+        "content": "Waiting for Obama",
+        "id": 6,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "",
-        "content" : "Economist podcast says that in the past, songs used to climb top charts slowly (sometimes for years) and then last years at the top. Now they rise very quickly and decline just as quickly. [It appears this is because of the massive competition. The same thing is happening with news.]",
-        "date" : "27/11/19"
+        "link": "",
+        "content": "Economist podcast says that in the past, songs used to climb top charts slowly (sometimes for years) and then last years at the top. Now they rise very quickly and decline just as quickly. [It appears this is because of the massive competition. The same thing is happening with news.]",
+        "id": 5,
+        "publish_date": "2019-11-27T00:00:00Z",
+        "show_date": true
     },
     {
-        "link" : "http://investorfieldguide.com/instagram/",
-        "content" : "Podcast: Kevin Systrom and Mike Krieger - How to Build a Great Product"
+        "link": "http://investorfieldguide.com/instagram/",
+        "content": "Podcast: Kevin Systrom and Mike Krieger - How to Build a Great Product",
+        "id": 4,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html",
-        "content" : "Martin Scorsese: I Said Marvel Movies Aren't Cinema. Let Me Explain."
+        "link": "https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html",
+        "content": "Martin Scorsese: I Said Marvel Movies Aren't Cinema. Let Me Explain.",
+        "id": 3,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://twitter.com/MLiebreich/status/1186915182309707776",
-        "content" : "I don't think investors have yet realised that VW is essentially betting the company on EVs."
+        "link": "https://twitter.com/MLiebreich/status/1186915182309707776",
+        "content": "I don't think investors have yet realised that VW is essentially betting the company on EVs.",
+        "id": 2,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://twitter.com/inihelene/status/1174990897106305025",
-        "content" : "I'm going to start a mushroom thread from mushrooms I've picked myself"
+        "link": "https://twitter.com/inihelene/status/1174990897106305025",
+        "content": "I'm going to start a mushroom thread from mushrooms I've picked myself",
+        "id": 1,
+        "publish_date": "2019-11-30T00:00:00Z",
+        "show_date": false
     },
     {
-        "link" : "https://twitter.com/JavierBlas/status/1184851934924234759",
-        "content" : "For the 2nd consecutive week, the U.S. was last week a *net* oil exporter.",
-        "date" : "27/10/19"
+        "link": "https://twitter.com/JavierBlas/status/1184851934924234759",
+        "content": "For the 2nd consecutive week, the U.S. was last week a *net* oil exporter.",
+        "id": 0,
+        "publish_date": "2019-10-27T00:00:00Z",
+        "show_date": true
     }
 ]
