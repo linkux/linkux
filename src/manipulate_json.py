@@ -11,11 +11,6 @@ for file in os.listdir("data"):
         i = 0
         for json_val in lines_as_json:
             json_val["id"] = count - i - 1
-            '''if "date" in json_val:
-                json_val["publish_date"] = json_val["date"]
-                del(json_val["date"])
-            else:
-                json_val["publish_date"] = "2019-11-30T00:00:00Z"'''
             json_val["show_date"] = False
             new_json.append(json_val)
             i += 1
