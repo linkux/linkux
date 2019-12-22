@@ -1,3 +1,5 @@
+''' This is a json manipulation tool '''
+
 import os
 import json
 
