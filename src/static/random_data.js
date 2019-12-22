@@ -1,6 +1,24 @@
 var random = [
     {
     "" :
+    "21/12/19 - There’s an interesting analogy between leading teams/corporations and designing software. You’d " +
+    "think that you can just tell people (programs) what to do and it would be easy but it’s hard to understand " +
+    "precisely what you want to achieve, let alone articulate it. Therefore clear thinking and clear articulating " +
+    "are very valuable. Both leaders and great software engineers are excellent at understanding what they want to " +
+    "achieve and at explaining how they plan to achieve it."
+    },
+    {
+    "" :
+    "21/12/19 - How can stock market returns be so much higher than GDP growth? Is it a ponzi? The answer appears to " +
+    "be the following:" +
+    "If a company is worth $100 million in real USD and its revenue is $20m and profit is $5m, and it doesn’t grow " +
+    "in real terms, it can provide a steady 5% rate of return through dividends without requiring any GDP growth. " +
+    "If GDP growth is ~3% and the company grows accordingly (same share of GDP) then it’s likely to achieve something " +
+    "closer to 8% returns. The company needs to actually sustain profits over time and not get squeezed by competitors " +
+    "but if you average across many companies then some decline while others take their place."
+    },
+    {
+    "" :
     "18/12/19 - I wonder if autonomous trucks will lead to more trucks being manufactured (more demand) or less " +
     "(higher utilization). Intuition says more but not sure."
     },

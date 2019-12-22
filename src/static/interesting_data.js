@@ -1,5 +1,17 @@
 var interesting = [
     {
+    "http://nymag.com/intelligencer/amp/2019/12/boris-johnson-brexit.html" :
+    "The Blundering Brilliance of Prime Minister Boris Johnson"
+    },
+    {
+    "https://www.theinformation.com/articles/to-control-its-destiny-facebook-bets-big-on-hardware" :
+    "To Control Its Destiny, Facebook Bets Big on Hardware"
+    },
+    {
+    "https://www.technologyreview.com/s/614929/facebook-has-a-neural-network-that-can-do-advanced-math/" :
+    "Facebook has a neural network that can do advanced math"
+    },
+    {
     "https://podcasts.apple.com/us/podcast/the-portal/id1469999563?i=1000459811494" :
     "Tyler Cowen - The Revolution Will Not Be Marginalized [The idea of feminization of society is interesting and " +
     "seems important. One would expect that the growing role of women in public life has massive consequences but " +
