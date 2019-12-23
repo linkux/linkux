@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<meta charset=utf-8>
+<html lang="en-US">
+
+<html>
+    <head>
+        <title>Ran Reichman's Website - Test</title>
+        <link rel="stylesheet" href="static/style.css">
+    </head>
+    <body>
+        <h3>Test</h3>
+        <h2><a href="/" class="link_back">Back to Home Page</a></h2>
+        <p id="test"></p>
+        <script>
+            post_json = {"content": "Great search site"};
+            fetch('/update', {
+              method: 'post',
+              headers: {
+                'Accept': 'application/json, text/plain, */*',
+                'Content-Type': 'application/json'
+              },
+              body: JSON.stringify(post_json),
+              json: true
+            }).then(res=>res.json())
+              .then(res=>console.log(res));
+        </script>
+    </body>
+</html>

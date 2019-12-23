@@ -43,4 +43,33 @@ app.get(api_endpoints, (req,res) => {
     res.send(data_parsed);
 });
 
+// required to receive json requests
+app.use(express.json());
+
+app.post('/update', function(request, response){
+    // TODO:: if the id already exists, replace the value in the array.
+
+    var data_filename = __dirname + "/../data/countries_data_2.json"
+    var data = fs.readFileSync(data_filename);
+    var data_parsed = JSON.parse(data);
+
+    var uploaded_data = request.body;
+    current_id = data_parsed[0]["id"];
+    uploaded_data["id"] = current_id + 1;
+    if (!("publish_date" in uploaded_data)) {
+        var date = new Date();
+        uploaded_data["publish_date"] = date.toISOString().split(".")[0] + "Z";
+    }
+    if (!("show_date" in uploaded_data)) {
+        uploaded_data["show_date"] = false;
+    }
+
+    // Appends to the beginning of the array
+    data_parsed.unshift(uploaded_data);
+    fs.writeFileSync(data_filename, JSON.stringify(data_parsed, null, 4));
+
+    console.log("got json");
+    response.send(uploaded_data);    // send the updated json back
+});
+
 app.listen(3001);
