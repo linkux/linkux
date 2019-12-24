@@ -1,6 +1,20 @@
 [
     {
         "link": "",
+        "content": "Self driving vans are likely to be a big deal before self driving cars, though after trucks. The last 20 feet will be difficult, maybe a big robotic arm can do the trick.",
+        "id": 17,
+        "publish_date": "2019-12-23T00:00:00Z",
+        "show_date": true
+    },
+    {
+        "link": "",
+        "content": "It's much better to start doing something (like building this website) than to think about it. Meeting reality changes everything.",
+        "id": 16,
+        "publish_date": "2019-12-23T00:00:00Z",
+        "show_date": true
+    },
+    {
+        "link": "",
         "content": "The mind gets used to how its being used. So for instance, the less one reads long form the harder it becomes to read longform.",
         "id": 15,
         "publish_date": "2019-12-23T00:00:00Z",
