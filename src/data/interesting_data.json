@@ -1,36 +1,8 @@
 [
     {
-        "link": "https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news",
-        "content": "The Lonely Work of Moderating Hacker News",
-        "id": 64,
-        "publish_date": "2019-12-24T06:57:07Z",
-        "show_date": false
-    },
-    {
-        "link": "https://www.bbc.com/future/article/20191113-the-toxic-killers-in-our-air-too-small-to-see",
-        "content": "The toxic killers in our air too small to see",
-        "id": 63,
-        "publish_date": "2019-12-24T04:17:51Z",
-        "show_date": false
-    },
-    {
-        "link": "https://www.cnbc.com/2019/12/23/mike-bloomberg-campaign-uses-tech-firm-he-founded-earlier-this-year.html",
-        "content": "Mike Bloomberg uses Hawkfish, tech firm he founded, for White House bid",
-        "id": 62,
-        "publish_date": "2019-12-23T00:00:00Z",
-        "show_date": false
-    },
-    {
-        "link": "https://www.nytimes.com/2019/12/19/technology/amazon-sellers.html",
-        "content": "Prime Power: How Amazon Squeezes the Businesses Behind Its Store",
-        "id": 61,
-        "publish_date": "2019-12-23T00:00:00Z",
-        "show_date": false
-    },
-    {
         "link": "https://www.theinformation.com/articles/didi-chuxing-aims-to-jumpstart-growth-after-a-rough-2019",
-        "content": "Didi Chuxing Aims to Jumpstart Growth After a Rough 2019",
-        "id": 60,
+        "content" : "Didi Chuxing Aims to Jumpstart Growth After a Rough 2019",
+        "id" : 60,
         "publish_date": "2019-12-22T00:00:00Z",
         "show_date": false
     },
