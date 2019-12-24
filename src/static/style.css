@@ -109,3 +109,9 @@ a.regular:visited{
   color: #3399ff;
   font-weight: bold;
 }
+
+.first{
+     width:120px;
+     height:120px;
+     float: right;
+ }

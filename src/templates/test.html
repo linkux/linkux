@@ -11,18 +11,13 @@
         <h3>Test</h3>
         <h2><a href="/" class="link_back">Back to Home Page</a></h2>
         <p id="test"></p>
+        <script src="static/post.js"></script>
         <script>
-            post_json = {"content": "Great search site"};
-            fetch('/update', {
-              method: 'post',
-              headers: {
-                'Accept': 'application/json, text/plain, */*',
-                'Content-Type': 'application/json'
-              },
-              body: JSON.stringify(post_json),
-              json: true
-            }).then(res=>res.json())
-              .then(res=>console.log(res));
+            json_for_post = {
+            "link": "https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news",
+            "content": "The Lonely Work of Moderating Hacker News"
+            };
+            post_data(json_for_post);
         </script>
     </body>
 </html>

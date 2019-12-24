@@ -8,6 +8,23 @@
         <link rel="stylesheet" href="static/style.css">
     </head>
     <body>
+        <script src="static/utils.js"></script>
+        <div>
+            <div class="first">
+                <div width="90" height="90" style="text-align:right;">
+                    <img src="images/plus.png" alt="Add Content" width="30" height="30" onclick="revealOrHideElement('form');"/>
+                </div>
+                <div id="form" width="90" height="90" style="text-align:right;visibility:hidden;">
+                    <form>
+                      First name:<br>
+                      <input type="text" name="firstname">
+                      <br>
+                      Last name:<br>
+                      <input type="text" name="lastname">
+                    </form>
+                </div>
+            </div>
+        </div>
         <h3>Cool</h3>
         <h2><a href="/" class="link_back">Back to Home Page</a></h2>
         <p id="cool", style="font-family:Unispace"></p>

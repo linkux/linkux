@@ -1,6 +1,13 @@
 [
     {
         "link": "",
+        "content": "The mind gets used to how its being used. So for instance, the less one reads long form the harder it becomes to read longform.",
+        "id": 15,
+        "publish_date": "2019-12-23T00:00:00Z",
+        "show_date": true
+    },
+    {
+        "link": "",
         "content": "There's something reassuring about the fact that when discussing tech monopolies we're worried about four different companies (Apple, Google, Facebook, Amazon). They could still be monopolistic, especially in their different areas of strength, but there's inherent value in the fact that they have to compete against each other.",
         "id": 14,
         "publish_date": "2019-12-21T00:00:00Z",

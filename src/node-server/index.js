@@ -47,9 +47,10 @@ app.get(api_endpoints, (req,res) => {
 app.use(express.json());
 
 app.post('/update', function(request, response){
-    // TODO:: if the id already exists, replace the value in the array.
+    // FUTURE:: if the id already exists, replace the value in the array.
+    // NEAR FUTURE:: add password
 
-    var data_filename = __dirname + "/../data/countries_data_2.json"
+    var data_filename = __dirname + "/../data/interesting_data.json"
     var data = fs.readFileSync(data_filename);
     var data_parsed = JSON.parse(data);
 
