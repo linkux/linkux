@@ -1,5 +1,26 @@
 [
     {
+        "link": "https://www.nytimes.com/interactive/2019/12/27/opinion/sunday/twitter-social-media.html",
+        "content": "Twitter Made Us Better",
+        "id": 67,
+        "publish_date": "2019-12-31T19:12:20Z",
+        "show_date": false
+    },
+    {
+        "link": "https://news.yahoo.com/pentagon-warns-military-members-dna-kits-pose-personal-and-operational-risks-173304318.html",
+        "content": "Pentagon warns military members DNA kits pose ‘personal and operational risks’",
+        "id": 66,
+        "publish_date": "2019-12-31T19:11:27Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.project-syndicate.org/commentary/climate-change-activists-empty-gestures-by-bjorn-lomborg-2019-12",
+        "content": "Empty Gestures on Climate Change",
+        "id": 65,
+        "publish_date": "2019-12-29T06:13:42Z",
+        "show_date": false
+    },
+    {
         "link": "https://www.newyorker.com/news/letter-from-silicon-valley/the-lonely-work-of-moderating-hacker-news",
         "content": "The Lonely Work of Moderating Hacker News",
         "id": 64,
