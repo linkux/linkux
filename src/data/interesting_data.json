@@ -1,5 +1,19 @@
 [
     {
+        "link": "https://www.youtube.com/watch?v=Unzc731iCUY",
+        "content": "How To Speak by Patrick Winston",
+        "id": 75,
+        "publish_date": "2020-01-01T22:56:45Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.economist.com/christmas-specials/2019/12/18/a-look-inside-the-factory-around-which-the-modern-world-turns",
+        "content": "A look inside the factory around which the modern world turns",
+        "id": 74,
+        "publish_date": "2020-01-01T19:13:18Z",
+        "show_date": false
+    },
+    {
         "link": "https://www.economist.com/the-world-in/2019/12/25/the-decade-of-the-young-old-begins",
         "content": "The decade of the “young old” begins",
         "id": 73,
