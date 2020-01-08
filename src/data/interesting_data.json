@@ -1,5 +1,33 @@
 [
     {
+        "link": "https://stratechery.com/2020/the-end-of-the-beginning/",
+        "content": "The End of the Beginning [I think the conclusion misses a point - if mobile is the end snd everything becomes an extension of the phone then at some point building a reasonable third-party (non iOS / Google Android) phone will be easy and common, commoditizing the phone layer. This is arguably already happening in China, especially considering WeChat (which Ben has talked about several times). Personally I think that ambient computing will be big and unbundle the phone, as Apple is already doing with Watch and AirPods. AR will further reinforce this trend. VR is also a wild card which could lead to a partial unbundling of the phone, albeit without replacing it.]",
+        "id": 85,
+        "publish_date": "2020-01-08T05:06:57Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.bloomberg.com/opinion/articles/2020-01-06/committing-war-crimes-is-not-the-way-to-deter-iran",
+        "content": "War Crimes? That’s Not How to Deter Iran",
+        "id": 84,
+        "publish_date": "2020-01-08T05:05:57Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.bloomberg.com/opinion/articles/2020-01-06/the-biggest-trend-for-2020-the-rise-of-unpredictability",
+        "content": "Why 2020 Is Harder to Predict Than 2019 Was",
+        "id": 83,
+        "publish_date": "2020-01-08T05:04:57Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.ben-evans.com/benedictevans/2020/01/01/microsoft-monopoly-and-dominance",
+        "content": "How to lose a monopoly: Microsoft, IBM and anti-trust",
+        "id": 82,
+        "publish_date": "2020-01-08T05:03:57Z",
+        "show_date": false
+    },
+    {
         "link": "https://medium.learningbyshipping.com/windows-facing-the-new-decade-2010-2b479612d3fc?gi=c75ce2e39016",
         "content": "Windows: Facing the New Decade (2010–2020)",
         "id": 81,
