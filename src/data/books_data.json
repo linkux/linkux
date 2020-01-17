@@ -1,5 +1,21 @@
 [
     {
+        "content": "The Greatest Trade Ever",
+        "author": "Gregory Zuckerman",
+        "score": "**",
+        "id": 111,
+        "publish_date": "2020-01-17T00:00:00Z",
+        "show_date": false
+    },
+    {
+        "content": "Tuxedo Park: A Wall Street Tycoon and the Secret Palace of Science",
+        "author": "Jennet Conant",
+        "score": "**",
+        "id": 110,
+        "publish_date": "2020-01-12T00:00:00Z",
+        "show_date": false
+    },
+    {
         "content": "The Frackers",
         "author": "Gregory Zuckerman",
         "score": "**",

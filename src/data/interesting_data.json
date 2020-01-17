@@ -1,5 +1,47 @@
 [
     {
+        "link": "https://www.bloomberg.com/opinion/articles/2020-01-15/u-s-china-trade-deal-trump-is-the-winner-of-round-one",
+        "content": "Trump Wins Round One of the U.S.-China Trade War",
+        "id": 91,
+        "publish_date": "2020-01-17T02:07:57Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.bloomberg.com/opinion/articles/2020-01-14/u-s-job-growth-is-great-but-boosting-wages-will-be-much-harder",
+        "content": "The Jobs Are There. Where Are the Wages?",
+        "id": 90,
+        "publish_date": "2020-01-17T02:07:57Z",
+        "show_date": false
+    },
+    {
+        "link": "https://www.bloomberg.com/opinion/articles/2020-01-14/u-s-job-growth-is-great-but-boosting-wages-will-be-much-harder",
+        "content": "The Jobs Are There. Where Are the Wages?",
+        "id": 89,
+        "publish_date": "2020-01-17T02:07:57Z",
+        "show_date": false
+    },
+    {
+        "link": "http://paulgraham.com/fh.html",
+        "content": "Haters",
+        "id": 88,
+        "publish_date": "2020-01-11T19:07:57Z",
+        "show_date": false
+    },
+    {
+        "link": "http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail",
+        "content": "Reality has a surprising amount of detail",
+        "id": 87,
+        "publish_date": "2020-01-11T19:06:57Z",
+        "show_date": false
+    },
+    {
+        "link": "https://rhg.com/research/preliminary-us-emissions-2019/",
+        "content": "US emissions fell 2.1% in 2019 [Amazing that US greenhouse gas emissions are down 12% since 2005]",
+        "id": 86,
+        "publish_date": "2020-01-09T04:06:57Z",
+        "show_date": false
+    },
+    {
         "link": "https://stratechery.com/2020/the-end-of-the-beginning/",
         "content": "The End of the Beginning [I think the conclusion misses a point - if mobile is the end snd everything becomes an extension of the phone then at some point building a reasonable third-party (non iOS / Google Android) phone will be easy and common, commoditizing the phone layer. This is arguably already happening in China, especially considering WeChat (which Ben has talked about several times). Personally I think that ambient computing will be big and unbundle the phone, as Apple is already doing with Watch and AirPods. AR will further reinforce this trend. VR is also a wild card which could lead to a partial unbundling of the phone, albeit without replacing it.]",
         "id": 85,
